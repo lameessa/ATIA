@@ -1,0 +1,4 @@
+# Local inference only. No image payload is uploaded to an inference provider.
+-r requirements-vision.txt
+transformers>=4.45,<5
+safetensors>=0.4,<1

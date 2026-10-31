@@ -1,0 +1,146 @@
+{
+  "provenance": "Candidate identity hints from the Phase 4/5 audit, never verification evidence. Each name requires new authoritative Tavily evidence.",
+  "locations": [
+    {
+      "cluster_id": "dest-6d4a76530a295c67",
+      "association_notes": "Photo title names Masmak; geotag is Ad Dirah. Neither establishes an official cluster boundary.",
+      "options": [
+        {
+          "name": "Al Masmak Palace",
+          "aliases": [
+            "Al Masmak Palace",
+            "Al-Masmak Palace",
+            "Masmak Fort",
+            "Al-Masmak",
+            "قصر المصمك"
+          ],
+          "entity_type": "attraction",
+          "query_context": "museum",
+          "parent": {
+            "name": "Riyadh",
+            "aliases": [
+              "Riyadh",
+              "الرياض"
+            ],
+            "entity_type": "destination"
+          }
+        }
+      ]
+    },
+    {
+      "cluster_id": "dest-3bf62e49baff55ee",
+      "association_notes": "Mirrored building observed in cached photo near AlUla. Flickr locality Madain Salih is not proof that this is Hegra; Maraya is a separate candidate attraction.",
+      "options": [
+        {
+          "name": "Maraya",
+          "aliases": [
+            "Maraya",
+            "مرايا"
+          ],
+          "entity_type": "attraction",
+          "parent": {
+            "name": "AlUla",
+            "aliases": [
+              "AlUla",
+              "Al Ula",
+              "Al-Ula",
+              "العلا"
+            ],
+            "entity_type": "destination"
+          }
+        }
+      ]
+    },
+    {
+      "cluster_id": "dest-9b1561923af55275",
+      "association_notes": "Flickr locality Al Balad and Jeddah Downtown title support a hypothesis, not UNESCO boundary membership.",
+      "options": [
+        {
+          "name": "Historic Jeddah (Al Balad)",
+          "aliases": [
+            "Historic Jeddah",
+            "Al Balad",
+            "Al-Balad",
+            "Jeddah Historic District",
+            "جدة التاريخية"
+          ],
+          "entity_type": "destination",
+          "parent": {
+            "name": "Jeddah",
+            "aliases": [
+              "Jeddah",
+              "جدة"
+            ],
+            "entity_type": "destination"
+          }
+        }
+      ]
+    },
+    {
+      "cluster_id": "dest-33c40f18483657d7",
+      "association_notes": "Farasan locality and fishing-trip title support a broader archipelago hypothesis, not the exact photographed fishing site.",
+      "options": [
+        {
+          "name": "Farasan Islands",
+          "aliases": [
+            "Farasan Islands",
+            "Juzur Farasan",
+            "جزر فرسان"
+          ],
+          "entity_type": "destination",
+          "parent": {
+            "name": "Jazan Region",
+            "aliases": [
+              "Jazan Region",
+              "Jazan Province",
+              "Jizan Region",
+              "منطقة جازان"
+            ],
+            "entity_type": "region"
+          }
+        }
+      ]
+    },
+    {
+      "cluster_id": "dest-bc2ce41bd5235a49",
+      "association_notes": "Titles mix Boulevard World and Boulevard Riyadh City; nearby attractions must not be merged into one officially named destination.",
+      "options": [
+        {
+          "name": "Boulevard World",
+          "aliases": [
+            "Boulevard World",
+            "BLVD World",
+            "بوليفارد وورلد"
+          ],
+          "entity_type": "attraction",
+          "parent": {
+            "name": "Riyadh",
+            "aliases": [
+              "Riyadh",
+              "الرياض"
+            ],
+            "entity_type": "destination"
+          }
+        },
+        {
+          "name": "Boulevard City",
+          "aliases": [
+            "Boulevard City",
+            "Boulevard Riyadh City",
+            "BLVD City",
+            "بوليفارد سيتي"
+          ],
+          "entity_type": "attraction",
+          "parent": {
+            "name": "Riyadh",
+            "aliases": [
+              "Riyadh",
+              "الرياض"
+            ],
+            "entity_type": "destination"
+          }
+        }
+      ]
+    }
+  ]
+}

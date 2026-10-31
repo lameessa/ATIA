@@ -1,0 +1,1 @@
+"""ATIA collection foundation."""

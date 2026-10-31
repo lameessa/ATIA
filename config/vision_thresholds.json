@@ -1,0 +1,7 @@
+{
+  "environment_min": 0.25,
+  "environment_margin": 0.03,
+  "element_min": 0.25,
+  "condition_min": 0.25,
+  "lighting_margin": 0.03
+}

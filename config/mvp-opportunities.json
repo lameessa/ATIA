@@ -1,0 +1,128 @@
+{
+  "provenance": "Hand-curated demo shortlist drawn from Flickr intelligence signals. Angles are marketing hypotheses to investigate, not findings.",
+  "opportunities": [
+    {
+      "slug": "farasan-islands",
+      "signal_kind": "named_destination",
+      "signal_key": "farasan islands",
+      "angle": {
+        "en": "Red Sea island escape: diving, fishing boats and coral-stone heritage houses.",
+        "ar": "ملاذ جزر البحر الأحمر: الغوص وقوارب الصيد والبيوت التراثية."
+      },
+      "image_search": {
+        "queries": [
+          "Farasan"
+        ],
+        "bbox": "41.5,16.4,42.6,17.2",
+        "must_match": [
+          "farasan",
+          "فرسان"
+        ]
+      }
+    },
+    {
+      "slug": "rijal-almaa",
+      "signal_kind": "named_destination",
+      "signal_key": "rijal almaa",
+      "angle": {
+        "en": "A stone-tower heritage village set in Asir's mountains, shared by many different photographers.",
+        "ar": "قرية تراثية بأبراجها الحجرية بين جبال عسير، وثّقها مصورون كثيرون."
+      },
+      "image_search": {
+        "queries": [
+          "Rijal",
+          "رجال ألمع"
+        ],
+        "bbox": "41.9,17.9,42.6,18.5",
+        "must_match": [
+          "rijal",
+          "rejal",
+          "رجال"
+        ]
+      }
+    },
+    {
+      "slug": "qassim-agritourism",
+      "signal_kind": "regional_experience",
+      "signal_key": "qassim:agricultural_tourism",
+      "angle": {
+        "en": "Date-palm country: palm groves and date farms across Al Qassim, without depending on one named farm.",
+        "ar": "موطن النخيل: بساتين النخيل ومزارع التمر في القصيم، دون الاعتماد على مزرعة بعينها."
+      },
+      "image_search": {
+        "queries": [
+          "palm",
+          "dates",
+          "farm",
+          "نخيل",
+          "مزارع"
+        ],
+        "bbox": "42.5,25.4,45.0,27.2",
+        "must_match": [
+          "palm",
+          "date",
+          "farm",
+          "orchard",
+          "نخل",
+          "نخيل",
+          "تمر",
+          "مزرع"
+        ]
+      }
+    },
+    {
+      "slug": "riyadh-waterscapes",
+      "signal_kind": "regional_experience",
+      "signal_key": "riyadh:valleys_waterscapes",
+      "angle": {
+        "en": "Green escapes minutes from the capital: wadis, lakes and waterside parks for Riyadh residents and visitors.",
+        "ar": "متنفسات خضراء قرب العاصمة: أودية وبحيرات ومتنزهات مائية لسكان الرياض وزوارها."
+      },
+      "image_search": {
+        "queries": [
+          "wadi",
+          "valley",
+          "lake",
+          "Hanifa"
+        ],
+        "bbox": "46.3,24.3,47.1,25.1",
+        "must_match": [
+          "wadi",
+          "valley",
+          "lake",
+          "hanifa",
+          "namar",
+          "وادي",
+          "بحيرة"
+        ]
+      }
+    },
+    {
+      "slug": "najran-rock-art",
+      "signal_kind": "named_destination",
+      "signal_key": "bir hima",
+      "angle": {
+        "en": "Exploratory: ancient rock art in Najran's desert for cultural travellers. Evidence is one photograph.",
+        "ar": "فرصة استكشافية: نقوش صخرية قديمة في صحراء نجران لمحبي السياحة الثقافية. الدليل صورة واحدة."
+      },
+      "image_search": {
+        "queries": [
+          "petroglyph",
+          "rock art",
+          "Hima",
+          "inscription",
+          "Najran"
+        ],
+        "bbox": "43.2,17.3,45.0,18.8",
+        "must_match": [
+          "hima",
+          "petroglyph",
+          "rock art",
+          "inscription",
+          "نقوش",
+          "حمى"
+        ]
+      }
+    }
+  ]
+}

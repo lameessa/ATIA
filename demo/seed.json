@@ -1,0 +1,4421 @@
+{
+ "provenance": "Exported from the ATIA research database. Real counts and five stored GPT-4o-mini drafts with their review state. Photographs are in demo/images.",
+ "summary": {
+  "archive_photos": 197,
+  "metadata_available": 192,
+  "geography": {
+   "region_only": 121,
+   "precise_geotag": 37,
+   "city_level_geotag": 13,
+   "macro_sampling_only": 15,
+   "coarse_geotag": 11
+  },
+  "with_region": 181,
+  "stored_openclip_photos": 11,
+  "with_named_place": 58,
+  "with_theme": 97,
+  "signals": {
+   "named_destination": 34,
+   "regional_experience": 44,
+   "tourism_theme": 11
+  },
+  "signal_strength": {
+   "named_destination": {
+    "strong": 2,
+    "moderate": 5,
+    "thin": 27
+   },
+   "regional_experience": {
+    "strong": 4,
+    "moderate": 9,
+    "thin": 31
+   },
+   "tourism_theme": {
+    "strong": 7,
+    "moderate": 2,
+    "thin": 2
+   }
+  },
+  "version": "flickr-intelligence-v1",
+  "openclip_note": "Only stored results are used; this build does not run OpenCLIP."
+ },
+ "version": "flickr-intelligence-v1",
+ "run_id": "intel-afc95feabe64451cae41b395afd7d0fd",
+ "created_at": "2026-10-30T22:01:58.624106+00:00",
+ "photos": [
+  {
+   "source": "afaq_historical",
+   "photo_id": "11432341654",
+   "title": "Wadi Laban park Riyadh",
+   "description": "",
+   "tags": [],
+   "photographer": "Shakil Ahmad",
+   "owner_id": null,
+   "photo_url": "https://www.flickr.com/photos/66345577@N08/11432341654/",
+   "captured_at": "2013-12-14 16:52:00",
+   "uploaded_at": null,
+   "metadata_available": true,
+   "flickr_status": "not_checked",
+   "license": {
+    "license_id": null,
+    "name": null,
+    "url": null,
+    "campaign_status": "unknown",
+    "campaign_eligible": false,
+    "reason": "Not included in the public demo."
+   },
+   "license_recorded_id": null,
+   "license_checked_at": null,
+   "displayable": false,
+   "campaign_image_eligible": false,
+   "engagement": {
+    "views": 2349,
+    "favorites": 24,
+    "comments": 9
+   },
+   "geography": {
+    "precision": "city_level_geotag",
+    "region": "riyadh",
+    "locality": "الرياض"
+   },
+   "places": [],
+   "themes": [
+    {
+     "theme": "valleys_waterscapes",
+     "strength": "metadata",
+     "evidence": [
+      {
+       "source": "title",
+       "terms": [
+        "wadi"
+       ]
+      }
+     ]
+    }
+   ],
+   "openclip": null,
+   "review_label": null,
+   "image": null,
+   "preview_url": null,
+   "subset_rank": null,
+   "quality": {
+    "score": 0,
+    "reasons": []
+   }
+  },
+  {
+   "source": "afaq_historical",
+   "photo_id": "14648926871",
+   "title": "عزال جزر فرسان",
+   "description": "",
+   "tags": [],
+   "photographer": "Bader Al-Qassem بدر القاسم",
+   "owner_id": null,
+   "photo_url": "https://www.flickr.com/photos/32910835@N08/14648926871/",
+   "captured_at": "2014-03-02 09:55:44",
+   "uploaded_at": null,
+   "metadata_available": true,
+   "flickr_status": "not_checked",
+   "license": {
+    "license_id": null,
+    "name": null,
+    "url": null,
+    "campaign_status": "unknown",
+    "campaign_eligible": false,
+    "reason": "Not included in the public demo."
+   },
+   "license_recorded_id": null,
+   "license_checked_at": null,
+   "displayable": false,
+   "campaign_image_eligible": false,
+   "engagement": {
+    "views": 1773,
+    "favorites": 21,
+    "comments": 15
+   },
+   "geography": {
+    "precision": "region_only",
+    "region": "jazan",
+    "locality": null
+   },
+   "places": [],
+   "themes": [
+    {
+     "theme": "coastal_marine",
+     "strength": "metadata",
+     "evidence": [
+      {
+       "source": "title",
+       "terms": [
+        "جزر"
+       ]
+      }
+     ]
+    }
+   ],
+   "openclip": null,
+   "review_label": null,
+   "image": null,
+   "preview_url": null,
+   "subset_rank": null,
+   "quality": {
+    "score": 0,
+    "reasons": []
+   }
+  },
+  {
+   "source": "afaq_historical",
+   "photo_id": "15399758757",
+   "title": "Farasan Island",
+   "description": "",
+   "tags": [],
+   "photographer": "Muhammad Zain Photography",
+   "owner_id": null,
+   "photo_url": "https://www.flickr.com/photos/128252515@N07/15399758757/",
+   "captured_at": "2014-10-18 17:53:23",
+   "uploaded_at": null,
+   "metadata_available": true,
+   "flickr_status": "not_checked",
+   "license": {
+    "license_id": null,
+    "name": null,
+    "url": null,
+    "campaign_status": "unknown",
+    "campaign_eligible": false,
+    "reason": "Not included in the public demo."
+   },
+   "license_recorded_id": null,
+   "license_checked_at": null,
+   "displayable": false,
+   "campaign_image_eligible": false,
+   "engagement": {
+    "views": 583,
+    "favorites": 2,
+    "comments": 3
+   },
+   "geography": {
+    "precision": "region_only",
+    "region": "jazan",
+    "locality": null
+   },
+   "places": [],
+   "themes": [
+    {
+     "theme": "coastal_marine",
+     "strength": "metadata",
+     "evidence": [
+      {
+       "source": "title",
+       "terms": [
+        "island"
+       ]
+      },
+      {
+       "source": "tags",
+       "terms": [
+        "island"
+       ]
+      }
+     ]
+    }
+   ],
+   "openclip": null,
+   "review_label": null,
+   "image": null,
+   "preview_url": null,
+   "subset_rank": null,
+   "quality": {
+    "score": 0,
+    "reasons": []
+   }
+  },
+  {
+   "source": "afaq_historical",
+   "photo_id": "15844527591",
+   "title": "رحلة صيد في جزيرة فرسان ( جيزان) مع مجموعة من الأصدقاء   A fishing trip in Farasan island in the southern port of Saudi   #finishing #fish #sea  #trip #Farasan #jazan #lights #dark #moon #moon_light #night   #boat   #fishing_boat #Instagram #island #in_th",
+   "description": "",
+   "tags": [],
+   "photographer": "mr9raied",
+   "owner_id": null,
+   "photo_url": "https://www.flickr.com/photos/12571439@N06/15844527591/",
+   "captured_at": "2014-11-21 12:34:40",
+   "uploaded_at": null,
+   "metadata_available": true,
+   "flickr_status": "not_checked",
+   "license": {
+    "license_id": null,
+    "name": null,
+    "url": null,
+    "campaign_status": "unknown",
+    "campaign_eligible": false,
+    "reason": "Not included in the public demo."
+   },
+   "license_recorded_id": null,
+   "license_checked_at": null,
+   "displayable": false,
+   "campaign_image_eligible": false,
+   "engagement": {
+    "views": 163,
+    "favorites": 0,
+    "comments": 0
+   },
+   "geography": {
+    "precision": "precise_geotag",
+    "region": "jazan",
+    "locality": "Farasan"
+   },
+   "places": [],
+   "themes": [
+    {
+     "theme": "coastal_marine",
+     "strength": "metadata",
+     "evidence": [
+      {
+       "source": "title",
+       "terms": [
+        "boat",
+        "fishing",
+        "island",
+        "sea",
+        "جزيرة",
+        "صيد"
+       ]
+      }
+     ]
+    }
+   ],
+   "openclip": null,
+   "review_label": null,
+   "image": null,
+   "preview_url": null,
+   "subset_rank": null,
+   "quality": {
+    "score": 0,
+    "reasons": []
+   }
+  },
+  {
+   "source": "afaq_historical",
+   "photo_id": "18267251386",
+   "title": "rejal alma رجال ألمع",
+   "description": "",
+   "tags": [],
+   "photographer": "thamer al-ghamdi",
+   "owner_id": null,
+   "photo_url": "https://www.flickr.com/photos/33950948@N04/18267251386/",
+   "captured_at": "2015-05-29 18:17:27",
+   "uploaded_at": null,
+   "metadata_available": true,
+   "flickr_status": "not_checked",
+   "license": {
+    "license_id": null,
+    "name": null,
+    "url": null,
+    "campaign_status": "unknown",
+    "campaign_eligible": false,
+    "reason": "Not included in the public demo."
+   },
+   "license_recorded_id": null,
+   "license_checked_at": null,
+   "displayable": false,
+   "campaign_image_eligible": false,
+   "engagement": {
+    "views": 691,
+    "favorites": 4,
+    "comments": 13
+   },
+   "geography": {
+    "precision": "region_only",
+    "region": "asir",
+    "locality": null
+   },
+   "places": [],
+   "themes": [],
+   "openclip": null,
+   "review_label": null,
+   "image": null,
+   "preview_url": null,
+   "subset_rank": null,
+   "quality": {
+    "score": 0,
+    "reasons": []
+   }
+  },
+  {
+   "source": "afaq_historical",
+   "photo_id": "2132542371",
+   "title": "Clownfish and Anemone",
+   "description": "",
+   "tags": [],
+   "photographer": "Michael R. Reilly",
+   "owner_id": null,
+   "photo_url": "https://www.flickr.com/photos/7271760@N04/2132542371/",
+   "captured_at": "2007-12-20 08:03:41",
+   "uploaded_at": null,
+   "metadata_available": true,
+   "flickr_status": "not_checked",
+   "license": {
+    "license_id": null,
+    "name": null,
+    "url": null,
+    "campaign_status": "unknown",
+    "campaign_eligible": false,
+    "reason": "Not included in the public demo."
+   },
+   "license_recorded_id": null,
+   "license_checked_at": null,
+   "displayable": false,
+   "campaign_image_eligible": false,
+   "engagement": {
+    "views": 556,
+    "favorites": 0,
+    "comments": 2
+   },
+   "geography": {
+    "precision": "region_only",
+    "region": "jazan",
+    "locality": null
+   },
+   "places": [],
+   "themes": [
+    {
+     "theme": "coastal_marine",
+     "strength": "weak_mention",
+     "evidence": [
+      {
+       "source": "description",
+       "terms": [
+        "red sea",
+        "sea"
+       ]
+      }
+     ]
+    }
+   ],
+   "openclip": null,
+   "review_label": null,
+   "image": null,
+   "preview_url": null,
+   "subset_rank": null,
+   "quality": {
+    "score": 0,
+    "reasons": []
+   }
+  },
+  {
+   "source": "afaq_historical",
+   "photo_id": "22615942988",
+   "title": "Night Dive Fish",
+   "description": "",
+   "tags": [],
+   "photographer": "ABDULLAH ALEISA",
+   "owner_id": null,
+   "photo_url": "https://www.flickr.com/photos/34248347@N08/22615942988/",
+   "captured_at": "2015-11-15 19:40:50",
+   "uploaded_at": null,
+   "metadata_available": true,
+   "flickr_status": "not_checked",
+   "license": {
+    "license_id": null,
+    "name": null,
+    "url": null,
+    "campaign_status": "unknown",
+    "campaign_eligible": false,
+    "reason": "Not included in the public demo."
+   },
+   "license_recorded_id": null,
+   "license_checked_at": null,
+   "displayable": false,
+   "campaign_image_eligible": false,
+   "engagement": {
+    "views": 65,
+    "favorites": 0,
+    "comments": 0
+   },
+   "geography": {
+    "precision": "region_only",
+    "region": "jazan",
+    "locality": null
+   },
+   "places": [],
+   "themes": [
+    {
+     "theme": "coastal_marine",
+     "strength": "metadata",
+     "evidence": [
+      {
+       "source": "title",
+       "terms": [
+        "dive"
+       ]
+      }
+     ]
+    }
+   ],
+   "openclip": null,
+   "review_label": null,
+   "image": null,
+   "preview_url": null,
+   "subset_rank": null,
+   "quality": {
+    "score": 0,
+    "reasons": []
+   }
+  },
+  {
+   "source": "afaq_historical",
+   "photo_id": "22773525798",
+   "title": "Palm - نخلة",
+   "description": "",
+   "tags": [],
+   "photographer": "Ibn Dzerir",
+   "owner_id": null,
+   "photo_url": "https://www.flickr.com/photos/103186186@N05/22773525798/",
+   "captured_at": "2016-11-13 10:25:40",
+   "uploaded_at": null,
+   "metadata_available": true,
+   "flickr_status": "not_checked",
+   "license": {
+    "license_id": null,
+    "name": null,
+    "url": null,
+    "campaign_status": "unknown",
+    "campaign_eligible": false,
+    "reason": "Not included in the public demo."
+   },
+   "license_recorded_id": null,
+   "license_checked_at": null,
+   "displayable": false,
+   "campaign_image_eligible": false,
+   "engagement": {
+    "views": 2663,
+    "favorites": 56,
+    "comments": 3
+   },
+   "geography": {
+    "precision": "region_only",
+    "region": "qassim",
+    "locality": null
+   },
+   "places": [],
+   "themes": [
+    {
+     "theme": "agricultural_tourism",
+     "strength": "metadata",
+     "evidence": [
+      {
+       "source": "title",
+       "terms": [
+        "palm",
+        "نخله"
+       ]
+      },
+      {
+       "source": "tags",
+       "terms": [
+        "palm",
+        "نخله"
+       ]
+      }
+     ]
+    }
+   ],
+   "openclip": null,
+   "review_label": null,
+   "image": null,
+   "preview_url": null,
+   "subset_rank": null,
+   "quality": {
+    "score": 0,
+    "reasons": []
+   }
+  },
+  {
+   "source": "afaq_historical",
+   "photo_id": "28647702697",
+   "title": "Namar Valley",
+   "description": "",
+   "tags": [],
+   "photographer": "Maher Najm",
+   "owner_id": null,
+   "photo_url": "https://www.flickr.com/photos/21416599@N08/28647702697/",
+   "captured_at": "2018-07-18 18:55:21",
+   "uploaded_at": null,
+   "metadata_available": true,
+   "flickr_status": "not_checked",
+   "license": {
+    "license_id": null,
+    "name": null,
+    "url": null,
+    "campaign_status": "unknown",
+    "campaign_eligible": false,
+    "reason": "Not included in the public demo."
+   },
+   "license_recorded_id": null,
+   "license_checked_at": null,
+   "displayable": false,
+   "campaign_image_eligible": false,
+   "engagement": {
+    "views": 11510,
+    "favorites": 302,
+    "comments": 55
+   },
+   "geography": {
+    "precision": "precise_geotag",
+    "region": "riyadh",
+    "locality": "الرياض"
+   },
+   "places": [],
+   "themes": [
+    {
+     "theme": "coastal_marine",
+     "strength": "weak_mention",
+     "evidence": [
+      {
+       "source": "description",
+       "terms": [
+        "corniche"
+       ]
+      }
+     ]
+    },
+    {
+     "theme": "valleys_waterscapes",
+     "strength": "metadata",
+     "evidence": [
+      {
+       "source": "title",
+       "terms": [
+        "valley"
+       ]
+      },
+      {
+       "source": "description",
+       "terms": [
+        "lake",
+        "valley",
+        "wadi"
+       ]
+      }
+     ]
+    },
+    {
+     "theme": "wildlife_birdwatching",
+     "strength": "weak_mention",
+     "evidence": [
+      {
+       "source": "description",
+       "terms": [
+        "birds"
+       ]
+      }
+     ]
+    }
+   ],
+   "openclip": null,
+   "review_label": null,
+   "image": null,
+   "preview_url": null,
+   "subset_rank": null,
+   "quality": {
+    "score": 0,
+    "reasons": []
+   }
+  },
+  {
+   "source": "afaq_historical",
+   "photo_id": "30505683513",
+   "title": "Date farm in Al Bukayriyah in AlQassim  مزارع التمر في منطقة البكيريه في القصيم   #القصيم #Qassim #phoneartsaudi #رحلات_ألوان_للمصورين #الوان_السعوديه #رحلة_ملتقى_ألوان_السعودية_٢٠١٦ #ألوان_السعودية",
+   "description": "",
+   "tags": [],
+   "photographer": "Rasha Y",
+   "owner_id": null,
+   "photo_url": "https://www.flickr.com/photos/61257977@N07/30505683513/",
+   "captured_at": "2016-11-29 13:02:35",
+   "uploaded_at": null,
+   "metadata_available": true,
+   "flickr_status": "not_checked",
+   "license": {
+    "license_id": null,
+    "name": null,
+    "url": null,
+    "campaign_status": "unknown",
+    "campaign_eligible": false,
+    "reason": "Not included in the public demo."
+   },
+   "license_recorded_id": null,
+   "license_checked_at": null,
+   "displayable": false,
+   "campaign_image_eligible": false,
+   "engagement": {
+    "views": 480,
+    "favorites": 0,
+    "comments": 0
+   },
+   "geography": {
+    "precision": "precise_geotag",
+    "region": "qassim",
+    "locality": "البكيرية"
+   },
+   "places": [],
+   "themes": [
+    {
+     "theme": "agricultural_tourism",
+     "strength": "metadata",
+     "evidence": [
+      {
+       "source": "title",
+       "terms": [
+        "date farm",
+        "farm",
+        "التمر",
+        "مزارع"
+       ]
+      }
+     ]
+    }
+   ],
+   "openclip": null,
+   "review_label": null,
+   "image": null,
+   "preview_url": null,
+   "subset_rank": null,
+   "quality": {
+    "score": 0,
+    "reasons": []
+   }
+  },
+  {
+   "source": "afaq_historical",
+   "photo_id": "3323584085",
+   "title": "High as the Sky",
+   "description": "",
+   "tags": [],
+   "photographer": "Rayan M.",
+   "owner_id": null,
+   "photo_url": "https://www.flickr.com/photos/29567062@N03/3323584085/",
+   "captured_at": "2009-02-24 10:35:39",
+   "uploaded_at": null,
+   "metadata_available": true,
+   "flickr_status": "not_checked",
+   "license": {
+    "license_id": null,
+    "name": null,
+    "url": null,
+    "campaign_status": "unknown",
+    "campaign_eligible": false,
+    "reason": "Not included in the public demo."
+   },
+   "license_recorded_id": null,
+   "license_checked_at": null,
+   "displayable": false,
+   "campaign_image_eligible": false,
+   "engagement": {
+    "views": 5295,
+    "favorites": 2,
+    "comments": 8
+   },
+   "geography": {
+    "precision": "precise_geotag",
+    "region": "jazan",
+    "locality": "Farasan"
+   },
+   "places": [],
+   "themes": [
+    {
+     "theme": "coastal_marine",
+     "strength": "weak_mention",
+     "evidence": [
+      {
+       "source": "tags",
+       "terms": [
+        "جزيرة"
+       ]
+      },
+      {
+       "source": "description",
+       "terms": [
+        "island"
+       ]
+      }
+     ]
+    },
+    {
+     "theme": "heritage_villages_forts",
+     "strength": "weak_mention",
+     "evidence": [
+      {
+       "source": "tags",
+       "terms": [
+        "heritage",
+        "تراث"
+       ]
+      }
+     ]
+    }
+   ],
+   "openclip": null,
+   "review_label": null,
+   "image": null,
+   "preview_url": null,
+   "subset_rank": null,
+   "quality": {
+    "score": 0,
+    "reasons": []
+   }
+  },
+  {
+   "source": "afaq_historical",
+   "photo_id": "36584720163",
+   "title": "وادي نمار",
+   "description": "",
+   "tags": [],
+   "photographer": "abonawaf",
+   "owner_id": null,
+   "photo_url": "https://www.flickr.com/photos/55376940@N08/36584720163/",
+   "captured_at": "2017-09-23 04:20:39",
+   "uploaded_at": null,
+   "metadata_available": true,
+   "flickr_status": "not_checked",
+   "license": {
+    "license_id": null,
+    "name": null,
+    "url": null,
+    "campaign_status": "unknown",
+    "campaign_eligible": false,
+    "reason": "Not included in the public demo."
+   },
+   "license_recorded_id": null,
+   "license_checked_at": null,
+   "displayable": false,
+   "campaign_image_eligible": false,
+   "engagement": {
+    "views": 4468,
+    "favorites": 25,
+    "comments": 11
+   },
+   "geography": {
+    "precision": "region_only",
+    "region": "riyadh",
+    "locality": null
+   },
+   "places": [],
+   "themes": [
+    {
+     "theme": "coastal_marine",
+     "strength": "weak_mention",
+     "evidence": [
+      {
+       "source": "tags",
+       "terms": [
+        "sea"
+       ]
+      }
+     ]
+    },
+    {
+     "theme": "valleys_waterscapes",
+     "strength": "metadata",
+     "evidence": [
+      {
+       "source": "title",
+       "terms": [
+        "وادي"
+       ]
+      },
+      {
+       "source": "tags",
+       "terms": [
+        "سد",
+        "وادي"
+       ]
+      }
+     ]
+    }
+   ],
+   "openclip": {
+    "decision": "uncertain",
+    "environment": null,
+    "model": "ViT-B-32",
+    "analyzed_at": "2026-10-30T15:40:52.099459+00:00"
+   },
+   "review_label": null,
+   "image": null,
+   "preview_url": null,
+   "subset_rank": null,
+   "quality": {
+    "score": 0,
+    "reasons": []
+   }
+  },
+  {
+   "source": "afaq_historical",
+   "photo_id": "4597920799",
+   "title": "رجال ألمع",
+   "description": "",
+   "tags": [],
+   "photographer": "ــو YASSER أبــ",
+   "owner_id": null,
+   "photo_url": "https://www.flickr.com/photos/49299223@N07/4597920799/",
+   "captured_at": "2010-05-05 19:33:48",
+   "uploaded_at": null,
+   "metadata_available": true,
+   "flickr_status": "not_checked",
+   "license": {
+    "license_id": null,
+    "name": null,
+    "url": null,
+    "campaign_status": "unknown",
+    "campaign_eligible": false,
+    "reason": "Not included in the public demo."
+   },
+   "license_recorded_id": null,
+   "license_checked_at": null,
+   "displayable": false,
+   "campaign_image_eligible": false,
+   "engagement": {
+    "views": 429,
+    "favorites": 0,
+    "comments": 6
+   },
+   "geography": {
+    "precision": "region_only",
+    "region": "asir",
+    "locality": null
+   },
+   "places": [],
+   "themes": [
+    {
+     "theme": "heritage_villages_forts",
+     "strength": "weak_mention",
+     "evidence": [
+      {
+       "source": "description",
+       "terms": [
+        "تراث"
+       ]
+      }
+     ]
+    }
+   ],
+   "openclip": null,
+   "review_label": null,
+   "image": null,
+   "preview_url": null,
+   "subset_rank": null,
+   "quality": {
+    "score": 0,
+    "reasons": []
+   }
+  },
+  {
+   "source": "afaq_historical",
+   "photo_id": "46625047862",
+   "title": "Al-Darhyia  Lake",
+   "description": "",
+   "tags": [],
+   "photographer": "Ayman Zarif",
+   "owner_id": null,
+   "photo_url": "https://www.flickr.com/photos/36506941@N05/46625047862/",
+   "captured_at": "2016-03-11 20:34:08",
+   "uploaded_at": null,
+   "metadata_available": true,
+   "flickr_status": "not_checked",
+   "license": {
+    "license_id": null,
+    "name": null,
+    "url": null,
+    "campaign_status": "unknown",
+    "campaign_eligible": false,
+    "reason": "Not included in the public demo."
+   },
+   "license_recorded_id": null,
+   "license_checked_at": null,
+   "displayable": false,
+   "campaign_image_eligible": false,
+   "engagement": {
+    "views": 942,
+    "favorites": 95,
+    "comments": 2
+   },
+   "geography": {
+    "precision": "region_only",
+    "region": "riyadh",
+    "locality": null
+   },
+   "places": [],
+   "themes": [
+    {
+     "theme": "valleys_waterscapes",
+     "strength": "metadata",
+     "evidence": [
+      {
+       "source": "title",
+       "terms": [
+        "lake"
+       ]
+      },
+      {
+       "source": "tags",
+       "terms": [
+        "lake",
+        "سد",
+        "وادي"
+       ]
+      }
+     ]
+    }
+   ],
+   "openclip": null,
+   "review_label": null,
+   "image": null,
+   "preview_url": null,
+   "subset_rank": null,
+   "quality": {
+    "score": 0,
+    "reasons": []
+   }
+  },
+  {
+   "source": "afaq_historical",
+   "photo_id": "48768184901",
+   "title": "Saudi Arabia - Unayzah (Two oldest Bahri date palms were brouth from Basra by camel)",
+   "description": "",
+   "tags": [],
+   "photographer": "k3s ( Kris )",
+   "owner_id": null,
+   "photo_url": "https://www.flickr.com/photos/89297995@N03/48768184901/",
+   "captured_at": "2019-08-06 11:23:18",
+   "uploaded_at": null,
+   "metadata_available": true,
+   "flickr_status": "not_checked",
+   "license": {
+    "license_id": null,
+    "name": null,
+    "url": null,
+    "campaign_status": "unknown",
+    "campaign_eligible": false,
+    "reason": "Not included in the public demo."
+   },
+   "license_recorded_id": null,
+   "license_checked_at": null,
+   "displayable": false,
+   "campaign_image_eligible": false,
+   "engagement": {
+    "views": 1500,
+    "favorites": 6,
+    "comments": 1
+   },
+   "geography": {
+    "precision": "region_only",
+    "region": "qassim",
+    "locality": null
+   },
+   "places": [],
+   "themes": [
+    {
+     "theme": "agricultural_tourism",
+     "strength": "metadata",
+     "evidence": [
+      {
+       "source": "title",
+       "terms": [
+        "palms"
+       ]
+      }
+     ]
+    },
+    {
+     "theme": "desert_adventure",
+     "strength": "metadata",
+     "evidence": [
+      {
+       "source": "title",
+       "terms": [
+        "camel"
+       ]
+      }
+     ]
+    }
+   ],
+   "openclip": null,
+   "review_label": null,
+   "image": null,
+   "preview_url": null,
+   "subset_rank": null,
+   "quality": {
+    "score": 0,
+    "reasons": []
+   }
+  },
+  {
+   "source": "afaq_historical",
+   "photo_id": "49408321981",
+   "title": "Petroglyphs on a rock depicting hunters, Najran Province, Thar, Saudi Arabia",
+   "description": "",
+   "tags": [],
+   "photographer": "Eric Lafforgue",
+   "owner_id": null,
+   "photo_url": "https://www.flickr.com/photos/41622708@N00/49408321981/",
+   "captured_at": "2020-01-02 12:20:16",
+   "uploaded_at": null,
+   "metadata_available": true,
+   "flickr_status": "not_checked",
+   "license": {
+    "license_id": null,
+    "name": null,
+    "url": null,
+    "campaign_status": "unknown",
+    "campaign_eligible": false,
+    "reason": "Not included in the public demo."
+   },
+   "license_recorded_id": null,
+   "license_checked_at": null,
+   "displayable": false,
+   "campaign_image_eligible": false,
+   "engagement": {
+    "views": 2018,
+    "favorites": 3,
+    "comments": 0
+   },
+   "geography": {
+    "precision": "precise_geotag",
+    "region": "najran",
+    "locality": null
+   },
+   "places": [],
+   "themes": [
+    {
+     "theme": "desert_adventure",
+     "strength": "weak_mention",
+     "evidence": [
+      {
+       "source": "tags",
+       "terms": [
+        "desert",
+        "empty quarter",
+        "rub al khali"
+       ]
+      }
+     ]
+    },
+    {
+     "theme": "heritage_villages_forts",
+     "strength": "weak_mention",
+     "evidence": [
+      {
+       "source": "tags",
+       "terms": [
+        "heritage"
+       ]
+      }
+     ]
+    },
+    {
+     "theme": "archaeology_rock_art",
+     "strength": "metadata",
+     "evidence": [
+      {
+       "source": "title",
+       "terms": [
+        "petroglyphs"
+       ]
+      },
+      {
+       "source": "tags",
+       "terms": [
+        "ancient civilisation",
+        "archaeology",
+        "petroglyph",
+        "petroglyphs",
+        "rock art"
+       ]
+      }
+     ]
+    }
+   ],
+   "openclip": null,
+   "review_label": null,
+   "image": null,
+   "preview_url": null,
+   "subset_rank": null,
+   "quality": {
+    "score": 0,
+    "reasons": []
+   }
+  },
+  {
+   "source": "afaq_historical",
+   "photo_id": "49585702448",
+   "title": "Farasan Island",
+   "description": "",
+   "tags": [],
+   "photographer": "hanming_huang",
+   "owner_id": null,
+   "photo_url": "https://www.flickr.com/photos/29868194@N08/49585702448/",
+   "captured_at": "2020-01-13 12:23:18",
+   "uploaded_at": null,
+   "metadata_available": true,
+   "flickr_status": "not_checked",
+   "license": {
+    "license_id": null,
+    "name": null,
+    "url": null,
+    "campaign_status": "unknown",
+    "campaign_eligible": false,
+    "reason": "Not included in the public demo."
+   },
+   "license_recorded_id": null,
+   "license_checked_at": null,
+   "displayable": false,
+   "campaign_image_eligible": false,
+   "engagement": {
+    "views": 233,
+    "favorites": 1,
+    "comments": 0
+   },
+   "geography": {
+    "precision": "precise_geotag",
+    "region": "jazan",
+    "locality": "Farasān"
+   },
+   "places": [],
+   "themes": [
+    {
+     "theme": "coastal_marine",
+     "strength": "metadata",
+     "evidence": [
+      {
+       "source": "title",
+       "terms": [
+        "island"
+       ]
+      },
+      {
+       "source": "tags",
+       "terms": [
+        "island"
+       ]
+      }
+     ]
+    }
+   ],
+   "openclip": null,
+   "review_label": null,
+   "image": null,
+   "preview_url": null,
+   "subset_rank": null,
+   "quality": {
+    "score": 0,
+    "reasons": []
+   }
+  },
+  {
+   "source": "afaq_historical",
+   "photo_id": "49586007781",
+   "title": "Farasan Heritage Village",
+   "description": "",
+   "tags": [],
+   "photographer": "hanming_huang",
+   "owner_id": null,
+   "photo_url": "https://www.flickr.com/photos/29868194@N08/49586007781/",
+   "captured_at": "2020-01-13 09:01:39",
+   "uploaded_at": null,
+   "metadata_available": true,
+   "flickr_status": "not_checked",
+   "license": {
+    "license_id": null,
+    "name": null,
+    "url": null,
+    "campaign_status": "unknown",
+    "campaign_eligible": false,
+    "reason": "Not included in the public demo."
+   },
+   "license_recorded_id": null,
+   "license_checked_at": null,
+   "displayable": false,
+   "campaign_image_eligible": false,
+   "engagement": {
+    "views": 1348,
+    "favorites": 0,
+    "comments": 0
+   },
+   "geography": {
+    "precision": "precise_geotag",
+    "region": "jazan",
+    "locality": "Ash Sha‘ar"
+   },
+   "places": [],
+   "themes": [
+    {
+     "theme": "coastal_marine",
+     "strength": "metadata",
+     "evidence": [
+      {
+       "source": "tags",
+       "terms": [
+        "island"
+       ]
+      }
+     ]
+    },
+    {
+     "theme": "heritage_villages_forts",
+     "strength": "metadata",
+     "evidence": [
+      {
+       "source": "title",
+       "terms": [
+        "heritage"
+       ]
+      }
+     ]
+    }
+   ],
+   "openclip": null,
+   "review_label": null,
+   "image": null,
+   "preview_url": null,
+   "subset_rank": null,
+   "quality": {
+    "score": 0,
+    "reasons": []
+   }
+  },
+  {
+   "source": "afaq_historical",
+   "photo_id": "49586208876",
+   "title": "Farasan Island",
+   "description": "",
+   "tags": [],
+   "photographer": "hanming_huang",
+   "owner_id": null,
+   "photo_url": "https://www.flickr.com/photos/29868194@N08/49586208876/",
+   "captured_at": "2020-01-13 10:26:41",
+   "uploaded_at": null,
+   "metadata_available": true,
+   "flickr_status": "not_checked",
+   "license": {
+    "license_id": null,
+    "name": null,
+    "url": null,
+    "campaign_status": "unknown",
+    "campaign_eligible": false,
+    "reason": "Not included in the public demo."
+   },
+   "license_recorded_id": null,
+   "license_checked_at": null,
+   "displayable": false,
+   "campaign_image_eligible": false,
+   "engagement": {
+    "views": 254,
+    "favorites": 0,
+    "comments": 0
+   },
+   "geography": {
+    "precision": "precise_geotag",
+    "region": "jazan",
+    "locality": "Khillah"
+   },
+   "places": [],
+   "themes": [
+    {
+     "theme": "coastal_marine",
+     "strength": "metadata",
+     "evidence": [
+      {
+       "source": "title",
+       "terms": [
+        "island"
+       ]
+      },
+      {
+       "source": "tags",
+       "terms": [
+        "island"
+       ]
+      }
+     ]
+    }
+   ],
+   "openclip": null,
+   "review_label": null,
+   "image": null,
+   "preview_url": null,
+   "subset_rank": null,
+   "quality": {
+    "score": 0,
+    "reasons": []
+   }
+  },
+  {
+   "source": "afaq_historical",
+   "photo_id": "51228504040",
+   "title": "Historic Castle - Rijal Alma, Abha, Saudi Arabia (Historic Village)",
+   "description": "",
+   "tags": [],
+   "photographer": "Photonistan",
+   "owner_id": null,
+   "photo_url": "https://www.flickr.com/photos/152234039@N02/51228504040/",
+   "captured_at": "2021-05-29 20:28:01",
+   "uploaded_at": null,
+   "metadata_available": true,
+   "flickr_status": "not_checked",
+   "license": {
+    "license_id": null,
+    "name": null,
+    "url": null,
+    "campaign_status": "unknown",
+    "campaign_eligible": false,
+    "reason": "Not included in the public demo."
+   },
+   "license_recorded_id": null,
+   "license_checked_at": null,
+   "displayable": false,
+   "campaign_image_eligible": false,
+   "engagement": {
+    "views": 2292,
+    "favorites": 195,
+    "comments": 15
+   },
+   "geography": {
+    "precision": "region_only",
+    "region": "asir",
+    "locality": null
+   },
+   "places": [],
+   "themes": [
+    {
+     "theme": "mountain_highlands",
+     "strength": "metadata",
+     "evidence": [
+      {
+       "source": "tags",
+       "terms": [
+        "mountain"
+       ]
+      }
+     ]
+    },
+    {
+     "theme": "heritage_villages_forts",
+     "strength": "metadata",
+     "evidence": [
+      {
+       "source": "title",
+       "terms": [
+        "castle",
+        "historic"
+       ]
+      },
+      {
+       "source": "tags",
+       "terms": [
+        "castle",
+        "heritage",
+        "historic"
+       ]
+      },
+      {
+       "source": "description",
+       "terms": [
+        "heritage"
+       ]
+      }
+     ]
+    }
+   ],
+   "openclip": null,
+   "review_label": null,
+   "image": null,
+   "preview_url": null,
+   "subset_rank": null,
+   "quality": {
+    "score": 0,
+    "reasons": []
+   }
+  },
+  {
+   "source": "afaq_historical",
+   "photo_id": "53504590533",
+   "title": "Wadi Hanifa at sunset",
+   "description": "",
+   "tags": [],
+   "photographer": "Gordon Tang",
+   "owner_id": null,
+   "photo_url": "https://www.flickr.com/photos/67226407@N03/53504590533/",
+   "captured_at": "2024-02-02 17:33:27",
+   "uploaded_at": null,
+   "metadata_available": true,
+   "flickr_status": "not_checked",
+   "license": {
+    "license_id": null,
+    "name": null,
+    "url": null,
+    "campaign_status": "unknown",
+    "campaign_eligible": false,
+    "reason": "Not included in the public demo."
+   },
+   "license_recorded_id": null,
+   "license_checked_at": null,
+   "displayable": false,
+   "campaign_image_eligible": false,
+   "engagement": {
+    "views": 539,
+    "favorites": 21,
+    "comments": 3
+   },
+   "geography": {
+    "precision": "precise_geotag",
+    "region": "riyadh",
+    "locality": "As Sifārāt"
+   },
+   "places": [],
+   "themes": [
+    {
+     "theme": "valleys_waterscapes",
+     "strength": "metadata",
+     "evidence": [
+      {
+       "source": "title",
+       "terms": [
+        "wadi"
+       ]
+      }
+     ]
+    }
+   ],
+   "openclip": null,
+   "review_label": null,
+   "image": null,
+   "preview_url": null,
+   "subset_rank": null,
+   "quality": {
+    "score": 0,
+    "reasons": []
+   }
+  },
+  {
+   "source": "afaq_historical",
+   "photo_id": "5495001603",
+   "title": "Rowam4",
+   "description": "",
+   "tags": [],
+   "photographer": "☰ حسن أحمساني",
+   "owner_id": null,
+   "photo_url": "https://www.flickr.com/photos/52018016@N06/5495001603/",
+   "captured_at": "2011-03-04 01:34:37",
+   "uploaded_at": null,
+   "metadata_available": true,
+   "flickr_status": "not_checked",
+   "license": {
+    "license_id": null,
+    "name": null,
+    "url": null,
+    "campaign_status": "unknown",
+    "campaign_eligible": false,
+    "reason": "Not included in the public demo."
+   },
+   "license_recorded_id": null,
+   "license_checked_at": null,
+   "displayable": false,
+   "campaign_image_eligible": false,
+   "engagement": {
+    "views": 847,
+    "favorites": 15,
+    "comments": 68
+   },
+   "geography": {
+    "precision": "region_only",
+    "region": "asir",
+    "locality": null
+   },
+   "places": [],
+   "themes": [
+    {
+     "theme": "valleys_waterscapes",
+     "strength": "metadata",
+     "evidence": [
+      {
+       "source": "tags",
+       "terms": [
+        "وادي"
+       ]
+      },
+      {
+       "source": "description",
+       "terms": [
+        "وادي"
+       ]
+      }
+     ]
+    }
+   ],
+   "openclip": null,
+   "review_label": null,
+   "image": null,
+   "preview_url": null,
+   "subset_rank": null,
+   "quality": {
+    "score": 0,
+    "reasons": []
+   }
+  },
+  {
+   "source": "afaq_historical",
+   "photo_id": "6184718045",
+   "title": "الطريق الى رجال ألمع",
+   "description": "",
+   "tags": [],
+   "photographer": "metab Algorab Alalmai",
+   "owner_id": null,
+   "photo_url": "https://www.flickr.com/photos/66743488@N04/6184718045/",
+   "captured_at": "2011-09-26 05:37:17",
+   "uploaded_at": null,
+   "metadata_available": true,
+   "flickr_status": "not_checked",
+   "license": {
+    "license_id": null,
+    "name": null,
+    "url": null,
+    "campaign_status": "unknown",
+    "campaign_eligible": false,
+    "reason": "Not included in the public demo."
+   },
+   "license_recorded_id": null,
+   "license_checked_at": null,
+   "displayable": false,
+   "campaign_image_eligible": false,
+   "engagement": {
+    "views": 344,
+    "favorites": 3,
+    "comments": 0
+   },
+   "geography": {
+    "precision": "region_only",
+    "region": "asir",
+    "locality": null
+   },
+   "places": [],
+   "themes": [],
+   "openclip": null,
+   "review_label": null,
+   "image": null,
+   "preview_url": null,
+   "subset_rank": null,
+   "quality": {
+    "score": 0,
+    "reasons": []
+   }
+  },
+  {
+   "source": "afaq_historical",
+   "photo_id": "8308103019",
+   "title": "رجال المع - العوص - منتزه ألمع",
+   "description": "",
+   "tags": [],
+   "photographer": "فهد الالمعي",
+   "owner_id": null,
+   "photo_url": "https://www.flickr.com/photos/74559741@N05/8308103019/",
+   "captured_at": "2012-10-30 23:03:36",
+   "uploaded_at": null,
+   "metadata_available": true,
+   "flickr_status": "not_checked",
+   "license": {
+    "license_id": null,
+    "name": null,
+    "url": null,
+    "campaign_status": "unknown",
+    "campaign_eligible": false,
+    "reason": "Not included in the public demo."
+   },
+   "license_recorded_id": null,
+   "license_checked_at": null,
+   "displayable": false,
+   "campaign_image_eligible": false,
+   "engagement": {
+    "views": 510,
+    "favorites": 1,
+    "comments": 0
+   },
+   "geography": {
+    "precision": "region_only",
+    "region": "asir",
+    "locality": null
+   },
+   "places": [],
+   "themes": [],
+   "openclip": null,
+   "review_label": null,
+   "image": null,
+   "preview_url": null,
+   "subset_rank": null,
+   "quality": {
+    "score": 0,
+    "reasons": []
+   }
+  },
+  {
+   "source": "afaq_historical",
+   "photo_id": "9305523960",
+   "title": "Farasan Island_0392",
+   "description": "",
+   "tags": [],
+   "photographer": "Bandar Yuosef",
+   "owner_id": null,
+   "photo_url": "https://www.flickr.com/photos/9922390@N07/9305523960/",
+   "captured_at": "2014-10-23 15:47:55",
+   "uploaded_at": null,
+   "metadata_available": true,
+   "flickr_status": "not_checked",
+   "license": {
+    "license_id": null,
+    "name": null,
+    "url": null,
+    "campaign_status": "unknown",
+    "campaign_eligible": false,
+    "reason": "Not included in the public demo."
+   },
+   "license_recorded_id": null,
+   "license_checked_at": null,
+   "displayable": false,
+   "campaign_image_eligible": false,
+   "engagement": {
+    "views": 1340,
+    "favorites": 3,
+    "comments": 0
+   },
+   "geography": {
+    "precision": "coarse_geotag",
+    "region": "jazan",
+    "locality": null
+   },
+   "places": [],
+   "themes": [
+    {
+     "theme": "coastal_marine",
+     "strength": "metadata",
+     "evidence": [
+      {
+       "source": "title",
+       "terms": [
+        "island"
+       ]
+      },
+      {
+       "source": "description",
+       "terms": [
+        "island"
+       ]
+      }
+     ]
+    }
+   ],
+   "openclip": null,
+   "review_label": null,
+   "image": null,
+   "preview_url": null,
+   "subset_rank": null,
+   "quality": {
+    "score": 0,
+    "reasons": []
+   }
+  }
+ ],
+ "opportunities": [
+  {
+   "opportunity_id": "farasan-islands",
+   "signal_id": "signal-0cfee6a30ee8ba4b",
+   "kind": "named_destination",
+   "title": {
+    "en": "Farasan Islands",
+    "ar": "جزر فرسان"
+   },
+   "angle": {
+    "en": "Red Sea island escape: diving, fishing boats and coral-stone heritage houses.",
+    "ar": "ملاذ جزر البحر الأحمر: الغوص وقوارب الصيد والبيوت التراثية."
+   },
+   "evidence_strength": "strong",
+   "evidence_label": "Strong evidence",
+   "theme": null,
+   "region": null,
+   "identity": {
+    "status": "verified_entity_exists",
+    "entity_id": "entity-c652dc5e75b353ddbe5f",
+    "place_type": "island",
+    "name_sources": {
+     "title": 7,
+     "tags": 2,
+     "description": 1
+    },
+    "alias_group": true,
+    "note": "Verified means an authoritative source confirms the place exists, not that these photos show it."
+   },
+   "evidence": {
+    "photo_count": 10,
+    "distinct_photographers": 8,
+    "views": {
+     "total": 11610,
+     "photos_reporting": 10
+    },
+    "favorites": {
+     "total": 29,
+     "photos_reporting": 10
+    },
+    "comments": {
+     "total": 28,
+     "photos_reporting": 10
+    },
+    "capture_years": {
+     "first": "2007",
+     "last": "2020"
+    }
+   },
+   "geography": {
+    "regions": [
+     {
+      "key": "jazan",
+      "en": "Jazan",
+      "ar": "جازان",
+      "photos": 10
+     }
+    ],
+    "localities": [
+     "Farasan",
+     "Farasān",
+     "Ash Sha‘ar",
+     "Khillah"
+    ],
+    "macro_sampling_regions": {
+     "South": 10
+    },
+    "centre": {
+     "latitude": 16.693761,
+     "longitude": 42.116527,
+     "basis": "precise_geotags",
+     "note": "Average camera position, not a surveyed location."
+    },
+    "geotagged_photos": 6,
+    "precise_geotags": 5
+   },
+   "visual": {
+    "photos_with_stored_result": 0,
+    "accepted_environments": {},
+    "note": "Stored results from an earlier OpenCLIP run. Similarities are not probabilities."
+   },
+   "assessment": {
+    "promotional_coverage": "not_researched",
+    "underrepresentation": "not_assessed",
+    "demand": "not_assessed"
+   },
+   "sensitive_note": null,
+   "gaps": [
+    "no_campaign_eligible_image",
+    "promotional_coverage_not_researched"
+   ],
+   "photo_ids": [
+    "14648926871",
+    "15399758757",
+    "15844527591",
+    "2132542371",
+    "22615942988",
+    "3323584085",
+    "49585702448",
+    "49586007781",
+    "49586208876",
+    "9305523960"
+   ],
+   "images": {
+    "displayable": 0,
+    "campaign_eligible": 0,
+    "campaign_eligible_photo_ids": [],
+    "representative": []
+   },
+   "position": 0
+  },
+  {
+   "opportunity_id": "rijal-almaa",
+   "signal_id": "signal-1f2f84bbf5cebe85",
+   "kind": "named_destination",
+   "title": {
+    "en": "Rijal Almaa",
+    "ar": "رجال ألمع"
+   },
+   "angle": {
+    "en": "A stone-tower heritage village set in Asir's mountains, shared by many different photographers.",
+    "ar": "قرية تراثية بأبراجها الحجرية بين جبال عسير، وثّقها مصورون كثيرون."
+   },
+   "evidence_strength": "strong",
+   "evidence_label": "Strong evidence",
+   "theme": null,
+   "region": null,
+   "identity": {
+    "status": "unverified_metadata_name",
+    "entity_id": null,
+    "place_type": "village",
+    "name_sources": {
+     "title": 5,
+     "tags": 1
+    },
+    "alias_group": true,
+    "note": "Name read from Flickr metadata; existence not yet confirmed."
+   },
+   "evidence": {
+    "photo_count": 6,
+    "distinct_photographers": 6,
+    "views": {
+     "total": 5113,
+     "photos_reporting": 6
+    },
+    "favorites": {
+     "total": 218,
+     "photos_reporting": 6
+    },
+    "comments": {
+     "total": 102,
+     "photos_reporting": 6
+    },
+    "capture_years": {
+     "first": "2010",
+     "last": "2021"
+    }
+   },
+   "geography": {
+    "regions": [
+     {
+      "key": "asir",
+      "en": "Asir",
+      "ar": "عسير",
+      "photos": 6
+     }
+    ],
+    "localities": [],
+    "macro_sampling_regions": {
+     "South": 6
+    },
+    "centre": null,
+    "geotagged_photos": 0,
+    "precise_geotags": 0
+   },
+   "visual": {
+    "photos_with_stored_result": 0,
+    "accepted_environments": {},
+    "note": "Stored results from an earlier OpenCLIP run. Similarities are not probabilities."
+   },
+   "assessment": {
+    "promotional_coverage": "not_researched",
+    "underrepresentation": "not_assessed",
+    "demand": "not_assessed"
+   },
+   "sensitive_note": null,
+   "gaps": [
+    "no_campaign_eligible_image",
+    "no_precise_geotag",
+    "identity_unverified",
+    "promotional_coverage_not_researched"
+   ],
+   "photo_ids": [
+    "18267251386",
+    "4597920799",
+    "51228504040",
+    "5495001603",
+    "6184718045",
+    "8308103019"
+   ],
+   "images": {
+    "displayable": 0,
+    "campaign_eligible": 0,
+    "campaign_eligible_photo_ids": [],
+    "representative": []
+   },
+   "position": 1
+  },
+  {
+   "opportunity_id": "qassim-agritourism",
+   "signal_id": "signal-fd6cec8edda90136",
+   "kind": "regional_experience",
+   "title": {
+    "en": "Agricultural and farm tourism in Al Qassim",
+    "ar": "السياحة الزراعية في القصيم"
+   },
+   "angle": {
+    "en": "Date-palm country: palm groves and date farms across Al Qassim, without depending on one named farm.",
+    "ar": "موطن النخيل: بساتين النخيل ومزارع التمر في القصيم، دون الاعتماد على مزرعة بعينها."
+   },
+   "evidence_strength": "moderate",
+   "evidence_label": "Moderate evidence",
+   "theme": "agricultural_tourism",
+   "region": "qassim",
+   "identity": null,
+   "evidence": {
+    "photo_count": 3,
+    "distinct_photographers": 3,
+    "views": {
+     "total": 4643,
+     "photos_reporting": 3
+    },
+    "favorites": {
+     "total": 62,
+     "photos_reporting": 3
+    },
+    "comments": {
+     "total": 4,
+     "photos_reporting": 3
+    },
+    "capture_years": {
+     "first": "2016",
+     "last": "2019"
+    }
+   },
+   "geography": {
+    "regions": [
+     {
+      "key": "qassim",
+      "en": "Al Qassim",
+      "ar": "القصيم",
+      "photos": 3
+     }
+    ],
+    "localities": [
+     "البكيرية"
+    ],
+    "macro_sampling_regions": {
+     "Central": 3
+    },
+    "centre": {
+     "latitude": 26.1506,
+     "longitude": 43.66,
+     "basis": "precise_geotags",
+     "note": "Average camera position, not a surveyed location."
+    },
+    "geotagged_photos": 1,
+    "precise_geotags": 1
+   },
+   "visual": {
+    "photos_with_stored_result": 0,
+    "accepted_environments": {},
+    "note": "Stored results from an earlier OpenCLIP run. Similarities are not probabilities."
+   },
+   "assessment": {
+    "promotional_coverage": "not_researched",
+    "underrepresentation": "not_assessed",
+    "demand": "not_assessed"
+   },
+   "sensitive_note": null,
+   "gaps": [
+    "no_campaign_eligible_image",
+    "promotional_coverage_not_researched"
+   ],
+   "photo_ids": [
+    "22773525798",
+    "30505683513",
+    "48768184901"
+   ],
+   "images": {
+    "displayable": 0,
+    "campaign_eligible": 0,
+    "campaign_eligible_photo_ids": [],
+    "representative": []
+   },
+   "position": 2
+  },
+  {
+   "opportunity_id": "riyadh-waterscapes",
+   "signal_id": "signal-f79bb12e925edc27",
+   "kind": "regional_experience",
+   "title": {
+    "en": "Valleys, oases and waterscapes in Riyadh",
+    "ar": "الأودية والواحات والمياه في الرياض"
+   },
+   "angle": {
+    "en": "Green escapes minutes from the capital: wadis, lakes and waterside parks for Riyadh residents and visitors.",
+    "ar": "متنفسات خضراء قرب العاصمة: أودية وبحيرات ومتنزهات مائية لسكان الرياض وزوارها."
+   },
+   "evidence_strength": "strong",
+   "evidence_label": "Strong evidence",
+   "theme": "valleys_waterscapes",
+   "region": "riyadh",
+   "identity": null,
+   "evidence": {
+    "photo_count": 5,
+    "distinct_photographers": 5,
+    "views": {
+     "total": 19808,
+     "photos_reporting": 5
+    },
+    "favorites": {
+     "total": 467,
+     "photos_reporting": 5
+    },
+    "comments": {
+     "total": 80,
+     "photos_reporting": 5
+    },
+    "capture_years": {
+     "first": "2013",
+     "last": "2024"
+    }
+   },
+   "geography": {
+    "regions": [
+     {
+      "key": "riyadh",
+      "en": "Riyadh",
+      "ar": "الرياض",
+      "photos": 5
+     }
+    ],
+    "localities": [
+     "الرياض",
+     "نمار",
+     "As Sifārāt"
+    ],
+    "macro_sampling_regions": {
+     "Central": 5
+    },
+    "centre": {
+     "latitude": 24.626243,
+     "longitude": 46.646356,
+     "basis": "precise_geotags",
+     "note": "Average camera position, not a surveyed location."
+    },
+    "geotagged_photos": 3,
+    "precise_geotags": 2
+   },
+   "visual": {
+    "photos_with_stored_result": 1,
+    "accepted_environments": {},
+    "note": "Stored results from an earlier OpenCLIP run. Similarities are not probabilities."
+   },
+   "assessment": {
+    "promotional_coverage": "not_researched",
+    "underrepresentation": "not_assessed",
+    "demand": "not_assessed"
+   },
+   "sensitive_note": null,
+   "gaps": [
+    "promotional_coverage_not_researched"
+   ],
+   "photo_ids": [
+    "11432341654",
+    "28647702697",
+    "36584720163",
+    "46625047862",
+    "53504590533"
+   ],
+   "images": {
+    "displayable": 0,
+    "campaign_eligible": 0,
+    "campaign_eligible_photo_ids": [],
+    "representative": []
+   },
+   "position": 3
+  },
+  {
+   "opportunity_id": "najran-rock-art",
+   "signal_id": "signal-8fa70982aaca4555",
+   "kind": "named_destination",
+   "title": {
+    "en": "Bir Hima",
+    "ar": "بئر حمى"
+   },
+   "angle": {
+    "en": "Exploratory: ancient rock art in Najran's desert for cultural travellers. Evidence is one photograph.",
+    "ar": "فرصة استكشافية: نقوش صخرية قديمة في صحراء نجران لمحبي السياحة الثقافية. الدليل صورة واحدة."
+   },
+   "evidence_strength": "thin",
+   "evidence_label": "Exploratory",
+   "theme": null,
+   "region": null,
+   "identity": {
+    "status": "unverified_metadata_name",
+    "entity_id": null,
+    "place_type": "archaeological_site",
+    "name_sources": {
+     "tags": 1
+    },
+    "alias_group": true,
+    "note": "Name read from Flickr metadata; existence not yet confirmed."
+   },
+   "evidence": {
+    "photo_count": 1,
+    "distinct_photographers": 1,
+    "views": {
+     "total": 2018,
+     "photos_reporting": 1
+    },
+    "favorites": {
+     "total": 3,
+     "photos_reporting": 1
+    },
+    "comments": {
+     "total": 0,
+     "photos_reporting": 1
+    },
+    "capture_years": {
+     "first": "2020",
+     "last": "2020"
+    }
+   },
+   "geography": {
+    "regions": [
+     {
+      "key": "najran",
+      "en": "Najran",
+      "ar": "نجران",
+      "photos": 1
+     }
+    ],
+    "localities": [],
+    "macro_sampling_regions": {
+     "South": 1
+    },
+    "centre": {
+     "latitude": 18.343338,
+     "longitude": 44.583202,
+     "basis": "precise_geotags",
+     "note": "Average camera position, not a surveyed location."
+    },
+    "geotagged_photos": 1,
+    "precise_geotags": 1
+   },
+   "visual": {
+    "photos_with_stored_result": 0,
+    "accepted_environments": {},
+    "note": "Stored results from an earlier OpenCLIP run. Similarities are not probabilities."
+   },
+   "assessment": {
+    "promotional_coverage": "not_researched",
+    "underrepresentation": "not_assessed",
+    "demand": "not_assessed"
+   },
+   "sensitive_note": null,
+   "gaps": [
+    "no_campaign_eligible_image",
+    "single_photographer",
+    "identity_unverified",
+    "promotional_coverage_not_researched"
+   ],
+   "photo_ids": [
+    "49408321981"
+   ],
+   "images": {
+    "displayable": 0,
+    "campaign_eligible": 0,
+    "campaign_eligible_photo_ids": [],
+    "representative": []
+   },
+   "position": 4
+  }
+ ],
+ "runs": [
+  {
+   "run_id": "agent-ae2a0ad203e24c6eb186ff9e000bf169",
+   "goal": "Investigate the marketing opportunity Agricultural and farm tourism in Al Qassim and draft a campaign if justified.",
+   "created_at": "2026-10-30T22:31:10.582275+00:00",
+   "completed_at": "2026-10-30T22:31:23.205938+00:00",
+   "cache_key": "ee5111a177b25f6c82f1c6e86fc6679c05a6f66842af60deb8f28fdeba8cd4ef",
+   "status": "needs_review",
+   "model": "gpt-4o-mini",
+   "limits": {
+    "lifetime_budget_usd": 0.25,
+    "max_input_bytes": 32000,
+    "max_output_tokens": 1800,
+    "max_searches": 1,
+    "max_steps": 4,
+    "max_tool_calls": 3,
+    "model": "gpt-4o-mini",
+    "run_budget_usd": 0.05,
+    "timeout_seconds": 35
+   },
+   "result": {
+    "decision": {
+     "decision": "INVESTIGATE",
+     "explanation": "Draft rejected: CREATE needs a campaign, cited claims and stated uncertainties",
+     "uncertainties": [
+      "Draft rejected: CREATE needs a campaign, cited claims and stated uncertainties"
+     ],
+     "claims": [],
+     "hidden_gem": {
+      "classification": "not_assessed"
+     }
+    },
+    "errors": [
+     "Draft rejected: CREATE needs a campaign, cited claims and stated uncertainties"
+    ],
+    "estimated_api_cost_usd": 0.0008915999999999999,
+    "usage": {
+     "input_tokens": 1816,
+     "output_tokens": 1032
+    },
+    "llm_requests": 1,
+    "tool_calls": 0,
+    "evidence_registry": {}
+   }
+  },
+  {
+   "run_id": "agent-6e6304d094d3479b95fd9c8778ab563d",
+   "goal": "Investigate the marketing opportunity Agricultural and farm tourism in Al Qassim and draft a campaign if justified.",
+   "created_at": "2026-10-30T22:33:23.556726+00:00",
+   "completed_at": "2026-10-30T22:33:37.833565+00:00",
+   "cache_key": "ee5111a177b25f6c82f1c6e86fc6679c05a6f66842af60deb8f28fdeba8cd4ef",
+   "status": "completed",
+   "model": "gpt-4o-mini",
+   "limits": {
+    "lifetime_budget_usd": 0.25,
+    "max_input_bytes": 32000,
+    "max_output_tokens": 1800,
+    "max_searches": 1,
+    "max_steps": 4,
+    "max_tool_calls": 3,
+    "model": "gpt-4o-mini",
+    "run_budget_usd": 0.05,
+    "timeout_seconds": 35
+   },
+   "result": {
+    "decision": {
+     "decision": "CREATE",
+     "explanation": "Launch a campaign focused on agricultural tourism in Al Qassim, highlighting the region's date-palm culture and farm visits.",
+     "uncertainties": [
+      "Verify the extent of existing awareness and interest in agricultural tourism in Al Qassim before launching the campaign."
+     ],
+     "claims": [
+      {
+       "claim": "Photos showcase the agricultural richness of Al Qassim, with a focus on date palms and local farm experiences, as seen in multiple user-generated images.",
+       "evidence_refs": [
+        "photo:22773525798",
+        "photo:30505683513",
+        "photo:48768184901"
+       ]
+      },
+      {
+       "claim": "Engagement metrics on these photos indicate interest in date farming in Al Qassim, contributing to a unique cultural tourism experience.",
+       "evidence_refs": [
+        "photo:22773525798",
+        "photo:30505683513",
+        "photo:48768184901"
+       ]
+      }
+     ],
+     "hidden_gem": {
+      "classification": "not_assessed"
+     }
+    },
+    "errors": [],
+    "estimated_api_cost_usd": 0.00101505,
+    "usage": {
+     "input_tokens": 1863,
+     "output_tokens": 1226
+    },
+    "llm_requests": 1,
+    "tool_calls": 0,
+    "evidence_registry": {}
+   }
+  },
+  {
+   "run_id": "agent-eb972a8b86fe4520bf614caae989f986",
+   "goal": "Investigate the marketing opportunity Farasan Islands and draft a campaign if justified.",
+   "created_at": "2026-10-31T09:29:46.448734+00:00",
+   "completed_at": "2026-10-31T09:30:00.691366+00:00",
+   "cache_key": "817e65f4ab8eac43bf95f8944360b315be42e0de64ea5e5b1072b7edc9dbc8ea",
+   "status": "needs_review",
+   "model": "gpt-4o-mini",
+   "limits": {
+    "lifetime_budget_usd": 0.25,
+    "max_input_bytes": 32000,
+    "max_output_tokens": 1800,
+    "max_searches": 1,
+    "max_steps": 4,
+    "max_tool_calls": 3,
+    "model": "gpt-4o-mini",
+    "run_budget_usd": 0.05,
+    "timeout_seconds": 35
+   },
+   "result": {
+    "decision": {
+     "decision": "INVESTIGATE",
+     "explanation": "Draft rejected: Draft asserts an unsupported claim: premier",
+     "uncertainties": [
+      "Draft rejected: Draft asserts an unsupported claim: premier"
+     ],
+     "claims": [],
+     "hidden_gem": {
+      "classification": "not_assessed"
+     }
+    },
+    "errors": [
+     "Draft rejected: Draft asserts an unsupported claim: premier"
+    ],
+    "estimated_api_cost_usd": 0.0011683499999999999,
+    "usage": {
+     "input_tokens": 3269,
+     "output_tokens": 1130
+    },
+    "llm_requests": 1,
+    "tool_calls": 0,
+    "evidence_registry": {}
+   }
+  },
+  {
+   "run_id": "agent-6a0a617bdf3d47d993207707e351c922",
+   "goal": "Investigate the marketing opportunity Rijal Almaa and draft a campaign if justified.",
+   "created_at": "2026-10-31T09:30:00.693542+00:00",
+   "completed_at": "2026-10-31T09:30:10.394605+00:00",
+   "cache_key": "d05ab227fe0d612ec95f6cd2f9296d4fe80819c6e36acb4f85161769a1b7791b",
+   "status": "needs_review",
+   "model": "gpt-4o-mini",
+   "limits": {
+    "lifetime_budget_usd": 0.25,
+    "max_input_bytes": 32000,
+    "max_output_tokens": 1800,
+    "max_searches": 1,
+    "max_steps": 4,
+    "max_tool_calls": 3,
+    "model": "gpt-4o-mini",
+    "run_budget_usd": 0.05,
+    "timeout_seconds": 35
+   },
+   "result": {
+    "decision": {
+     "decision": "INVESTIGATE",
+     "explanation": "Draft rejected: Duplicate post IDs",
+     "uncertainties": [
+      "Draft rejected: Duplicate post IDs"
+     ],
+     "claims": [],
+     "hidden_gem": {
+      "classification": "not_assessed"
+     }
+    },
+    "errors": [
+     "Draft rejected: Duplicate post IDs"
+    ],
+    "estimated_api_cost_usd": 0.0010157999999999999,
+    "usage": {
+     "input_tokens": 2416,
+     "output_tokens": 1089
+    },
+    "llm_requests": 1,
+    "tool_calls": 0,
+    "evidence_registry": {}
+   }
+  },
+  {
+   "run_id": "agent-02fcc3174cfb4f9b8c959c42056f3624",
+   "goal": "Investigate the marketing opportunity Valleys, oases and waterscapes in Riyadh and draft a campaign if justified.",
+   "created_at": "2026-10-31T09:30:10.397572+00:00",
+   "completed_at": "2026-10-31T09:30:20.780181+00:00",
+   "cache_key": "8364d6395247f94d728183bd3b02566a13bafa821b7da1107265bf4d0fd71f7a",
+   "status": "needs_review",
+   "model": "gpt-4o-mini",
+   "limits": {
+    "lifetime_budget_usd": 0.25,
+    "max_input_bytes": 32000,
+    "max_output_tokens": 1800,
+    "max_searches": 1,
+    "max_steps": 4,
+    "max_tool_calls": 3,
+    "model": "gpt-4o-mini",
+    "run_budget_usd": 0.05,
+    "timeout_seconds": 35
+   },
+   "result": {
+    "decision": {
+     "decision": "INVESTIGATE",
+     "explanation": "Draft rejected: Draft asserts an unsupported claim: popular",
+     "uncertainties": [
+      "Draft rejected: Draft asserts an unsupported claim: popular"
+     ],
+     "claims": [],
+     "hidden_gem": {
+      "classification": "not_assessed"
+     }
+    },
+    "errors": [
+     "Draft rejected: Draft asserts an unsupported claim: popular"
+    ],
+    "estimated_api_cost_usd": 0.00098415,
+    "usage": {
+     "input_tokens": 2317,
+     "output_tokens": 1061
+    },
+    "llm_requests": 1,
+    "tool_calls": 0,
+    "evidence_registry": {}
+   }
+  },
+  {
+   "run_id": "agent-72e518d70aaf4c8ca912313b9ca4cba3",
+   "goal": "Investigate the marketing opportunity Bir Hima and draft a campaign if justified.",
+   "created_at": "2026-10-31T09:30:20.783215+00:00",
+   "completed_at": "2026-10-31T09:30:31.553180+00:00",
+   "cache_key": "d28545c8604b2592a0c990827345e2ea6c228001ec32dc819321a57d64f332a2",
+   "status": "needs_review",
+   "model": "gpt-4o-mini",
+   "limits": {
+    "lifetime_budget_usd": 0.25,
+    "max_input_bytes": 32000,
+    "max_output_tokens": 1800,
+    "max_searches": 1,
+    "max_steps": 4,
+    "max_tool_calls": 3,
+    "model": "gpt-4o-mini",
+    "run_budget_usd": 0.05,
+    "timeout_seconds": 35
+   },
+   "result": {
+    "decision": {
+     "decision": "INVESTIGATE",
+     "explanation": "Draft rejected: Draft contains a figure that is not in the evidence: 30%",
+     "uncertainties": [
+      "Draft rejected: Draft contains a figure that is not in the evidence: 30%"
+     ],
+     "claims": [],
+     "hidden_gem": {
+      "classification": "not_assessed"
+     }
+    },
+    "errors": [
+     "Draft rejected: Draft contains a figure that is not in the evidence: 30%"
+    ],
+    "estimated_api_cost_usd": 0.00099045,
+    "usage": {
+     "input_tokens": 1715,
+     "output_tokens": 1222
+    },
+    "llm_requests": 1,
+    "tool_calls": 0,
+    "evidence_registry": {}
+   }
+  }
+ ],
+ "campaigns": [
+  {
+   "campaign_id": "oppcampaign-fea9d5deeb7b4d459b9d3c32cc937239",
+   "run_id": "agent-6e6304d094d3479b95fd9c8778ab563d",
+   "opportunity_id": "qassim-agritourism",
+   "created_at": "2026-10-30T22:33:37.833122+00:00",
+   "status": "PENDING_APPROVAL",
+   "evidence_fingerprint": "ee5111a177b25f6c82f1c6e86fc6679c05a6f66842af60deb8f28fdeba8cd4ef",
+   "campaign": {
+    "campaign_name": {
+     "en": "Agricultural Tourism in Al Qassim",
+     "ar": "السياحة الزراعية في القصيم"
+    },
+    "central_concept": {
+     "en": "Date-palm country: farm visits and harvest culture across Al Qassim, without depending on one named farm.",
+     "ar": "موطن النخيل: زيارات المزارع وثقافة موسم التمور في القصيم، دون الاعتماد على مزرعة بعينها."
+    },
+    "objectives": [
+     {
+      "en": "Increase awareness of Al Qassim's agricultural tourism potential.",
+      "ar": "زيادة الوعي بإمكانات السياحة الزراعية في القصيم."
+     },
+     {
+      "en": "Encourage local and international visitors to explore date farms and harvest activities.",
+      "ar": "تشجيع الزوار المحليين والدوليين على استكشاف مزارع النخيل وأنشطة الحصاد."
+     },
+     {
+      "en": "Promote the cultural significance of date farming in the region.",
+      "ar": "تعزيز الأهمية الثقافية لزراعة النخيل في المنطقة."
+     }
+    ],
+    "target_audience": {
+     "en": "Local and international tourists interested in cultural and agricultural experiences.",
+     "ar": "السياح المحليين والدوليين المهتمين بتجارب ثقافية وزراعية."
+    },
+    "audience_rationale_hypothesis": {
+     "en": "Tourists seeking unique experiences may be attracted to regional agricultural activities.",
+     "ar": "قد يجذب السياح الذين يسعون لتجارب فريدة الأنشطة الزراعية الإقليمية."
+    },
+    "positioning": {
+     "en": "Al Qassim as a leading destination for agricultural experiences and cultural immersion.",
+     "ar": "القصيم كوجهة رائدة للتجارب الزراعية والانغماس الثقافي."
+    },
+    "opportunity_hypothesis": {
+     "en": "There is a growing interest in agricultural tourism that Al Qassim can capitalize on through farm visits and cultural experiences.",
+     "ar": "يوجد اهتمام متزايد في السياحة الزراعية يمكن للقصيم الاستفادة منه من خلال زيارات المزارع والتجارب الثقافية."
+    },
+    "key_messages": [
+     {
+      "en": "Experience the culture of date farming in Al Qassim.",
+      "ar": "اختبروا ثقافة زراعة التمور في القصيم."
+     },
+     {
+      "en": "Join us for farm tours and immerse yourself in the beauty of agricultural traditions.",
+      "ar": "انضموا إلينا في جولات بالمزارع وانغمسوا في جمال التقاليد الزراعية."
+     }
+    ],
+    "creative_direction": {
+     "en": "Visually-driven campaign showcasing picturesque date farms and the harvest experience.",
+     "ar": "حملة مدفوعة بالصور تعرض مزارع النخيل الخلابة وتجربة الحصاد."
+    },
+    "social_posts": [
+     {
+      "post_id": "post1",
+      "channel": "Instagram",
+      "caption": {
+       "en": "Explore Al Qassim's date farms and uncover the beauty of agricultural traditions! 🍇🌴",
+       "ar": "استكشفوا مزارع النخيل في القصيم واكتشفوا جمال التقاليد الزراعية! 🍇🌴"
+      }
+     },
+     {
+      "post_id": "post2",
+      "channel": "Facebook",
+      "caption": {
+       "en": "Join us for a unique journey into the heart of date farming in Al Qassim! 🌾☀️",
+       "ar": "انضموا إلينا في رحلة فريدة إلى قلب زراعة النخيل في القصيم! 🌾☀️"
+      }
+     }
+    ],
+    "suggested_channels": [
+     "Instagram",
+     "Facebook"
+    ],
+    "publishing_schedule": [
+     {
+      "post_id": "post1",
+      "days_after_human_approved_launch": 1,
+      "local_time": "09:00",
+      "timezone": "Asia/Riyadh",
+      "channel": "Instagram",
+      "activity": {
+       "en": "Launch a captivating post introducing Al Qassim’s date farms.",
+       "ar": "إطلاق منشور جذاب يقدم مزارع النخيل في القصيم."
+      }
+     },
+     {
+      "post_id": "post2",
+      "days_after_human_approved_launch": 2,
+      "local_time": "10:00",
+      "timezone": "Asia/Riyadh",
+      "channel": "Facebook",
+      "activity": {
+       "en": "Share engaging content about the agricultural culture of Al Qassim.",
+       "ar": "مشاركة محتوى جذاب حول الثقافة الزراعية في القصيم."
+      }
+     }
+    ],
+    "kpis_and_measurement": [
+     {
+      "metric": {
+       "en": "Engagement rate on social media posts",
+       "ar": "معدل المشاركة على منشورات وسائل التواصل الاجتماعي"
+      },
+      "measurement_plan": {
+       "en": "Monitor likes, shares, and comments on campaign posts.",
+       "ar": "مراقبة الإعجابات والمشاركات والتعليقات على منشورات الحملة."
+      },
+      "baseline": "UNMEASURED",
+      "proposed_target_hypothesis": {
+       "en": "Achieve at least a 5% engagement rate on posts within the campaign duration.",
+       "ar": "تحقيق معدل مشاركة لا يقل عن 5% على المنشورات خلال فترة الحملة."
+      }
+     }
+    ],
+    "risks_uncertainties_validation": [
+     {
+      "en": "Confirm the availability of farms willing to collaborate in promotional activities.",
+      "ar": "تأكيد توافر المزارع المستعدة للتعاون في الأنشطة الترويجية."
+     },
+     {
+      "en": "Verify local interest and accessibility for potential tourists.",
+      "ar": "التحقق من الاهتمام المحلي وسهولة الوصول للسياح المحتملين."
+     }
+    ],
+    "destination": {
+     "entity_id": null,
+     "name": {
+      "en": "Agricultural and farm tourism in Al Qassim",
+      "ar": "السياحة الزراعية في القصيم"
+     },
+     "location_context": {
+      "en": "Al Qassim",
+      "ar": "القصيم"
+     }
+    },
+    "evidence_strength": "moderate",
+    "evidence_label": "Moderate evidence"
+   },
+   "evidence": {
+    "dossier": {
+     "opportunity_id": "qassim-agritourism",
+     "kind": "regional_experience",
+     "title": {
+      "en": "Agricultural and farm tourism in Al Qassim",
+      "ar": "السياحة الزراعية في القصيم"
+     },
+     "proposed_angle": {
+      "en": "Date-palm country: farm visits and harvest culture across Al Qassim, without depending on one named farm.",
+      "ar": "موطن النخيل: زيارات المزارع وثقافة موسم التمور في القصيم، دون الاعتماد على مزرعة بعينها."
+     },
+     "evidence_strength": "moderate",
+     "identity": null,
+     "totals": {
+      "photo_count": 3,
+      "distinct_photographers": 3,
+      "views": {
+       "total": 4643,
+       "photos_reporting": 3
+      },
+      "favorites": {
+       "total": 62,
+       "photos_reporting": 3
+      },
+      "comments": {
+       "total": 4,
+       "photos_reporting": 3
+      },
+      "capture_years": {
+       "first": "2016",
+       "last": "2019"
+      }
+     },
+     "geography": {
+      "regions": [
+       {
+        "key": "qassim",
+        "en": "Al Qassim",
+        "ar": "القصيم",
+        "photos": 3
+       }
+      ],
+      "localities": [
+       "البكيرية"
+      ],
+      "geotagged_photos": 1,
+      "precise_geotags": 1
+     },
+     "photos": [
+      {
+       "evidence_ref": "photo:22773525798",
+       "title": "Palm - نخلة",
+       "description": "",
+       "tags": [],
+       "photographer": "Ibn Dzerir",
+       "photo_url": "https://www.flickr.com/photos/103186186@N05/22773525798/",
+       "captured_at": "2016-11-13 10:25:40",
+       "engagement": {
+        "views": 2663,
+        "favorites": 56,
+        "comments": 3
+       },
+       "region": "qassim",
+       "locality": null,
+       "geotag_precision": "region_only",
+       "themes": [
+        "agricultural_tourism"
+       ],
+       "stored_openclip": null
+      },
+      {
+       "evidence_ref": "photo:30505683513",
+       "title": "Date farm in Al Bukayriyah in AlQassim  مزارع التمر في منطقة البكيريه في القصيم   #القصيم #Qassim #phoneartsaudi #رحلات_ألوان_للمصورين #الوان_السعوديه #رحلة_ملتقى_ألوان_السعودية_٢٠١٦ #ألوان_السعودية",
+       "description": "",
+       "tags": [],
+       "photographer": "Rasha Y",
+       "photo_url": "https://www.flickr.com/photos/61257977@N07/30505683513/",
+       "captured_at": "2016-11-29 13:02:35",
+       "engagement": {
+        "views": 480,
+        "favorites": 0,
+        "comments": 0
+       },
+       "region": "qassim",
+       "locality": "البكيرية",
+       "geotag_precision": "precise_geotag",
+       "themes": [
+        "agricultural_tourism"
+       ],
+       "stored_openclip": null
+      },
+      {
+       "evidence_ref": "photo:48768184901",
+       "title": "Saudi Arabia - Unayzah (Two oldest Bahri date palms were brouth from Basra by camel)",
+       "description": "",
+       "tags": [],
+       "photographer": "k3s ( Kris )",
+       "photo_url": "https://www.flickr.com/photos/89297995@N03/48768184901/",
+       "captured_at": "2019-08-06 11:23:18",
+       "engagement": {
+        "views": 1500,
+        "favorites": 6,
+        "comments": 1
+       },
+       "region": "qassim",
+       "locality": null,
+       "geotag_precision": "region_only",
+       "themes": [
+        "agricultural_tourism",
+        "desert_adventure"
+       ],
+       "stored_openclip": null
+      }
+     ],
+     "stored_research": [],
+     "not_assessed": {
+      "promotional_coverage": "not_researched",
+      "underrepresentation": "not_assessed",
+      "demand": "not_assessed"
+     },
+     "sensitive_note": null
+    },
+    "claims": [
+     {
+      "claim": "Photos showcase the agricultural richness of Al Qassim, with a focus on date palms and local farm experiences, as seen in multiple user-generated images.",
+      "evidence_refs": [
+       "photo:22773525798",
+       "photo:30505683513",
+       "photo:48768184901"
+      ]
+     },
+     {
+      "claim": "Engagement metrics on these photos indicate interest in date farming in Al Qassim, contributing to a unique cultural tourism experience.",
+      "evidence_refs": [
+       "photo:22773525798",
+       "photo:30505683513",
+       "photo:48768184901"
+      ]
+     }
+    ],
+    "uncertainties": [
+     "Verify the extent of existing awareness and interest in agricultural tourism in Al Qassim before launching the campaign."
+    ],
+    "recommendation": "Launch a campaign focused on agricultural tourism in Al Qassim, highlighting the region's date-palm culture and farm visits.",
+    "marketing_angle": "Promote Al Qassim as a destination for experiencing the rich cultural practices around date harvests and agricultural landscapes."
+   },
+   "edit": {
+    "edit_id": "edit-0a233d66a311485fb238a7ea8f91521c",
+    "revision": 1,
+    "created_at": "2026-10-30T22:46:05.435360+00:00",
+    "editor": "Claude (editorial correction)",
+    "content": {
+     "campaign_name": {
+      "en": "Al Qassim Among the Palms",
+      "ar": "القصيم بين النخيل"
+     },
+     "central_concept": {
+      "en": "A visual invitation to Al Qassim's palm groves, date farms and mud-brick heritage, seen through the lenses of photographers who were there.",
+      "ar": "دعوة بصرية إلى بساتين النخيل ومزارع التمر والعمارة الطينية في القصيم، بعدسات مصورين وثّقوها بأنفسهم."
+     },
+     "objectives": [
+      {
+       "en": "Introduce Al Qassim's palm landscapes to travellers planning trips within the Kingdom.",
+       "ar": "تعريف المسافرين داخل المملكة بمناظر النخيل في القصيم."
+      },
+      {
+       "en": "Present date palms as part of the region's visual identity.",
+       "ar": "إبراز النخيل جزءًا من الهوية البصرية للمنطقة."
+      },
+      {
+       "en": "Learn which palm and heritage imagery earns a response before planning anything on the ground.",
+       "ar": "معرفة صور النخيل والتراث الأكثر تفاعلًا قبل التخطيط لأي عمل ميداني."
+      }
+     ],
+     "target_audience": {
+      "en": "Hypothesis: travellers within the Kingdom and families who enjoy nature, photography and local heritage.",
+      "ar": "فرضية: المسافرون داخل المملكة والعائلات من محبي الطبيعة والتصوير والموروث المحلي."
+     },
+     "audience_rationale_hypothesis": {
+      "en": "To be tested: palm landscapes may appeal to people looking for a different side of the Kingdom. No audience research has been done.",
+      "ar": "للاختبار: قد تستهوي مناظر النخيل من يبحثون عن وجه آخر للمملكة. ولم يُجرَ بحث عن الجمهور بعد."
+     },
+     "positioning": {
+      "en": "Al Qassim, where palm groves and date farms shape the landscape.",
+      "ar": "القصيم.. أرض ترسم ملامحها بساتين النخيل ومزارع التمر."
+     },
+     "opportunity_hypothesis": {
+      "en": "Hypothesis: three photographers separately shared Al Qassim's palms and date farms, which suggests a visual story worth testing. This does not measure visitor numbers.",
+      "ar": "فرضية: وثّق ثلاثة مصورين، كلٌّ على حدة، نخيل القصيم ومزارع التمر فيها، ما يشير إلى قصة بصرية تستحق التجربة. ولا يدل ذلك على حجم الزيارات."
+     },
+     "key_messages": [
+      {
+       "en": "Rows of palms, shade and open sky: this is Al Qassim.",
+       "ar": "صفوف من النخيل وظلال وسماء مفتوحة.. هذه هي القصيم."
+      },
+      {
+       "en": "Date palms and mud-brick walls, side by side.",
+       "ar": "النخيل والجدران الطينية جنبًا إلى جنب."
+      }
+     ],
+     "creative_direction": {
+      "en": "Lead with wide views of palm groves and the mud-brick buildings beside them, in natural light. Use only licensed photographs and credit each photographer.",
+      "ar": "تتصدر الحملة مشاهد واسعة لبساتين النخيل والمباني الطينية المجاورة لها في ضوء طبيعي، مع الاقتصار على الصور المرخّصة وذكر اسم كل مصور."
+     },
+     "social_posts": [
+      {
+       "post_id": "post1",
+       "channel": "Instagram",
+       "caption": {
+        "en": "Rows of palms and shade as far as you can see. This is Al Qassim. 🌴",
+        "ar": "صفوف من النخيل وظلال على امتداد البصر.. هذه هي القصيم. 🌴"
+       }
+      },
+      {
+       "post_id": "post2",
+       "channel": "Facebook",
+       "caption": {
+        "en": "Have you seen this side of Al Qassim? Date palms in Al Bukayriyah, through a photographer's lens. 🌴",
+        "ar": "هل رأيتم هذا الوجه من القصيم؟ نخيل البكيرية بعدسة مصوّر. 🌴"
+       }
+      }
+     ],
+     "suggested_channels": [
+      "Instagram",
+      "Facebook"
+     ],
+     "publishing_schedule": [
+      {
+       "post_id": "post1",
+       "days_after_human_approved_launch": 1,
+       "local_time": "09:00",
+       "timezone": "Asia/Riyadh",
+       "channel": "Instagram",
+       "activity": {
+        "en": "Publish the palm-grove photograph with its caption and photographer credit.",
+        "ar": "نشر صورة بستان النخيل مع التعليق وذكر اسم المصور."
+       }
+      },
+      {
+       "post_id": "post2",
+       "days_after_human_approved_launch": 2,
+       "local_time": "10:00",
+       "timezone": "Asia/Riyadh",
+       "channel": "Facebook",
+       "activity": {
+        "en": "Publish an Al Bukayriyah date-palm photograph with its caption and photographer credit.",
+        "ar": "نشر صورة لنخيل البكيرية مع التعليق وذكر اسم المصور."
+       }
+      }
+     ],
+     "kpis_and_measurement": [
+      {
+       "metric": {
+        "en": "Engagement rate on campaign posts",
+        "ar": "معدل التفاعل مع منشورات الحملة"
+       },
+       "measurement_plan": {
+        "en": "Track likes, shares, comments and saves on each post.",
+        "ar": "متابعة الإعجابات والمشاركات والتعليقات وعمليات الحفظ لكل منشور."
+       },
+       "proposed_target_hypothesis": {
+        "en": "Set a target after measuring the first posts. Engagement shows response to the content, not visits.",
+        "ar": "يُحدَّد الهدف بعد قياس المنشورات الأولى. ويعكس التفاعل استجابة الجمهور للمحتوى لا حجم الزيارات."
+       },
+       "baseline": "UNMEASURED"
+      }
+     ],
+     "risks_uncertainties_validation": [
+      {
+       "en": "Confirm whether any farm accepts visitors before mentioning visits or tours.",
+       "ar": "التأكد من استقبال أي مزرعة للزوار قبل ذكر الزيارات أو الجولات."
+      },
+      {
+       "en": "Recheck image licences and credit each photographer before publishing.",
+       "ar": "إعادة التحقق من تراخيص الصور وذكر اسم كل مصور قبل النشر."
+      },
+      {
+       "en": "Have a native Arabic marketing editor approve the final copy.",
+       "ar": "اعتماد النص النهائي من محرر تسويق متمرس باللغة العربية."
+      }
+     ],
+     "destination": {
+      "entity_id": null,
+      "name": {
+       "en": "Agricultural and farm tourism in Al Qassim",
+       "ar": "السياحة الزراعية في القصيم"
+      },
+      "location_context": {
+       "en": "Al Qassim",
+       "ar": "القصيم"
+      }
+     },
+     "evidence_strength": "moderate",
+     "evidence_label": "Moderate evidence",
+     "review_evidence": {
+      "recommendation": "Draft a visual awareness campaign around Al Qassim's palm groves and date farms. Do not promise visits or activities until they are verified.",
+      "claims": [
+       {
+        "claim": "Three different photographers shared Al Qassim palm and date-farm photographs: a palm tagged Buraydah, a date farm titled Al Bukayriyah, and date palms titled Unayzah.",
+        "evidence_refs": [
+         "photo:22773525798",
+         "photo:30505683513",
+         "photo:48768184901"
+        ]
+       },
+       {
+        "claim": "The photographs show palm trees, a palm grove and mud-brick buildings. None shows visitors or an organised activity.",
+        "evidence_refs": [
+         "photo:22773525798",
+         "photo:30505683513",
+         "photo:48768184901"
+        ]
+       }
+      ],
+      "uncertainties": [
+       "Flickr views, favourites and comments describe these photographs. They do not measure interest or visitor demand.",
+       "Whether any farm accepts visitors is unverified.",
+       "The evidence is three photographs, so this is a hypothesis to test rather than a finding.",
+       "Promotional coverage of agricultural tourism in Al Qassim has not been researched."
+      ]
+     }
+    },
+    "dates": {}
+   },
+   "review": {
+    "review_id": "review-1e580c36cd914de99b2ec9e66c2ff94b",
+    "revision": 1,
+    "decision": "APPROVED",
+    "reviewer": "Project reviewer",
+    "notes": "",
+    "reviewed_at": "2026-10-31T09:17:50.917993+00:00",
+    "launch_date": "2026-11-17"
+   }
+  },
+  {
+   "campaign_id": "oppcampaign-9b62451d4d3a4300994a3724d26829fe",
+   "run_id": "agent-72e518d70aaf4c8ca912313b9ca4cba3",
+   "opportunity_id": "najran-rock-art",
+   "created_at": "2026-10-31T09:42:13.074273+00:00",
+   "status": "PENDING_APPROVAL",
+   "evidence_fingerprint": "d28545c8604b2592a0c990827345e2ea6c228001ec32dc819321a57d64f332a2",
+   "campaign": {
+    "campaign_name": {
+     "en": "Discover the Ancient Rock Art of Najran",
+     "ar": "اكتشف النقوش الصخرية القديمة في نجران"
+    },
+    "central_concept": {
+     "en": "Cultural Heritage Exploration",
+     "ar": "استكشاف التراث الثقافي"
+    },
+    "objectives": [
+     {
+      "en": "Raise awareness of Najran's ancient rock art among cultural travelers.",
+      "ar": "زيادة الوعي بنقوش نجران القديمة بين محبي الثقافة."
+     },
+     {
+      "en": "Encourage visits to explore the unique archaeological heritage of Najran.",
+      "ar": "تشجيع الزيارات لاستكشاف التراث الأثري الفريد في نجران."
+     },
+     {
+      "en": "Promote cultural understanding and appreciation of the region's history.",
+      "ar": "تعزيز الفهم الثقافي والتقدير لتاريخ المنطقة."
+     }
+    ],
+    "target_audience": {
+     "en": "Cultural travelers interested in archaeological sites and heritage.",
+     "ar": "المسافرون الثقافيون المهتمون بالمواقع الأثرية والتراث."
+    },
+    "audience_rationale_hypothesis": {
+     "en": "Cultural travelers seek authentic experiences that connect them to history and local cultures.",
+     "ar": "يسعى المسافرون الثقافيون لتجارب حقيقية تربطهم بالتاريخ والثقافات المحلية."
+    },
+    "positioning": {
+     "en": "Najran as a hidden treasure for those interested in ancient history and rock art.",
+     "ar": "نجران ككنز مخفي لأولئك المهتمين بالتاريخ القديم والفنّ الصخري."
+    },
+    "opportunity_hypothesis": {
+     "en": "Highlighting rock art can attract more cultural travelers to the Najran region.",
+     "ar": "يمكن أن يجذب تسليط الضوء على الفن الصخري المزيد من المسافرين الثقافيين إلى منطقة نجران."
+    },
+    "key_messages": [
+     {
+      "en": "Explore the stunning rock art of Najran, a testament to ancient civilizations.",
+      "ar": "اكتشف الفن الصخري الرائع في نجران، شاهدًا على الحضارات القديمة."
+     },
+     {
+      "en": "Experience Najran’s cultural heritage through its remarkable archaeological sites.",
+      "ar": "عِش تراث نجران الثقافي من خلال مواقعها الأثرية البارزة."
+     }
+    ],
+    "creative_direction": {
+     "en": "Showcase the beauty and historical significance of rock art through evocative imagery.",
+     "ar": "عرض جمال وأهمية الفن الصخري من خلال الصور المؤثرة."
+    },
+    "social_posts": [
+     {
+      "post_id": "post1",
+      "channel": "Instagram",
+      "caption": {
+       "en": "Discover the ancient rock art of Najran. A beautiful testament to our heritage. #Najran #RockArt #CulturalTravel",
+       "ar": "اكتشف النقوش الصخرية القديمة في نجران. شهادة رائعة على تراثنا. #نجران #فن_صخري #سياحة_ثقافية"
+      }
+     },
+     {
+      "post_id": "post2",
+      "channel": "Facebook",
+      "caption": {
+       "en": "Explore one of Saudi Arabia's archaeological treasures. Visit Najran and immerse yourself in its rich history today!",
+       "ar": "استكشف أحد كنوز المملكة العربية السعودية الأثرية. زر نجران وانغمس في تاريخها الغني اليوم!"
+      }
+     }
+    ],
+    "suggested_channels": [
+     "Instagram",
+     "Facebook"
+    ],
+    "publishing_schedule": [
+     {
+      "post_id": "post1",
+      "days_after_human_approved_launch": 0,
+      "local_time": "10:00",
+      "timezone": "Asia/Riyadh",
+      "channel": "Instagram",
+      "activity": {
+       "en": "Launch post promoting Najran's rock art.",
+       "ar": "إطلاق منشور يروّج لفن نجران الصخري."
+      }
+     },
+     {
+      "post_id": "post2",
+      "days_after_human_approved_launch": 1,
+      "local_time": "12:00",
+      "timezone": "Asia/Riyadh",
+      "channel": "Facebook",
+      "activity": {
+       "en": "Share a historical overview of Najran and its archaeological significance.",
+       "ar": "مشاركة نظرة تاريخية عن نجران وأهميتها الأثرية."
+      }
+     }
+    ],
+    "kpis_and_measurement": [
+     {
+      "metric": {
+       "en": "Engagement on social media posts",
+       "ar": "التفاعل على المنشورات على الوسائل الاجتماعية"
+      },
+      "measurement_plan": {
+       "en": "Monitor likes, shares, and comments for insights on interest.",
+       "ar": "مراقبة الإعجابات والمشاركات والتعليقات للحصول على رؤى حول الاهتمام."
+      },
+      "baseline": "UNMEASURED",
+      "proposed_target_hypothesis": {
+       "en": "Increase engagement by 30% within two months of launch.",
+       "ar": "زيادة التفاعل بنسبة 30% خلال شهرين من الإطلاق."
+      }
+     }
+    ],
+    "risks_uncertainties_validation": [
+     {
+      "en": "Confirm the accessibility of the Bir Hima site and any potential visitor facilities or tours available.",
+      "ar": "تأكيد إمكانية الوصول إلى موقع بئر حما وأي مرافق للزوار أو جولات متاحة."
+     },
+     {
+      "en": "Verify the cultural and historical background of the rock art to ensure accurate representation in marketing materials.",
+      "ar": "التحقق من الخلفية الثقافية والتاريخية للفن الصخري لضمان تمثيل دقيق في المواد التسويقية."
+     }
+    ],
+    "destination": {
+     "entity_id": null,
+     "name": {
+      "en": "Bir Hima",
+      "ar": "بئر حمى"
+     },
+     "location_context": {
+      "en": "Najran",
+      "ar": "نجران"
+     }
+    },
+    "evidence_strength": "thin",
+    "evidence_label": "Exploratory"
+   },
+   "evidence": {
+    "dossier": {
+     "opportunity_id": "najran-rock-art",
+     "kind": "named_destination",
+     "title": {
+      "en": "Bir Hima",
+      "ar": "بئر حمى"
+     },
+     "proposed_angle": {
+      "en": "Exploratory: ancient rock art in Najran's desert for cultural travellers. Evidence is one photograph.",
+      "ar": "فرصة استكشافية: نقوش صخرية قديمة في صحراء نجران لمحبي السياحة الثقافية. الدليل صورة واحدة."
+     },
+     "evidence_strength": "thin",
+     "identity": {
+      "status": "unverified_metadata_name",
+      "entity_id": null,
+      "place_type": "archaeological_site",
+      "name_sources": {
+       "tags": 1
+      },
+      "alias_group": true,
+      "note": "Name read from Flickr metadata; existence not yet confirmed."
+     },
+     "totals": {
+      "photo_count": 1,
+      "distinct_photographers": 1,
+      "views": {
+       "total": 2018,
+       "photos_reporting": 1
+      },
+      "favorites": {
+       "total": 3,
+       "photos_reporting": 1
+      },
+      "comments": {
+       "total": 0,
+       "photos_reporting": 1
+      },
+      "capture_years": {
+       "first": "2020",
+       "last": "2020"
+      }
+     },
+     "geography": {
+      "regions": [
+       {
+        "key": "najran",
+        "en": "Najran",
+        "ar": "نجران",
+        "photos": 1
+       }
+      ],
+      "localities": [],
+      "geotagged_photos": 1,
+      "precise_geotags": 1
+     },
+     "photos": [
+      {
+       "evidence_ref": "photo:49408321981",
+       "title": "Petroglyphs on a rock depicting hunters, Najran Province, Thar, Saudi Arabia",
+       "description": "",
+       "tags": [],
+       "photographer": "Eric Lafforgue",
+       "photo_url": "https://www.flickr.com/photos/41622708@N00/49408321981/",
+       "captured_at": "2020-01-02 12:20:16",
+       "engagement": {
+        "views": 2018,
+        "favorites": 3,
+        "comments": 0
+       },
+       "region": "najran",
+       "locality": null,
+       "geotag_precision": "precise_geotag",
+       "themes": [
+        "archaeology_rock_art"
+       ],
+       "stored_openclip": null
+      }
+     ],
+     "stored_research": [],
+     "not_assessed": {
+      "promotional_coverage": "not_researched",
+      "underrepresentation": "not_assessed",
+      "demand": "not_assessed"
+     },
+     "sensitive_note": null
+    },
+    "claims": [
+     {
+      "claim": "A photograph shows petroglyphs on a rock depicting hunters in the Najran Province, indicative of archaeological significance and cultural heritage.",
+      "evidence_refs": [
+       "photo:49408321981"
+      ]
+     },
+     {
+      "claim": "The vibrant tags associated with the photograph include 'Ancient', 'Archaeology', and 'Art', showcasing the cultural richness of the site captured in the image.",
+      "evidence_refs": [
+       "photo:49408321981"
+      ]
+     }
+    ],
+    "uncertainties": [
+     "The current promotional coverage of the site is not assessed, and the level of interest in this specific type of cultural travel is unknown.",
+     "Further details about visitor access and the existence of guided tours or activities surrounding the rock art need verification."
+    ],
+    "recommendation": "Draft a campaign to highlight the ancient rock art in Najran, targeting cultural travelers.",
+    "marketing_angle": "Exploratory: ancient rock art in Najran's desert for cultural travellers. Evidence is one photograph.",
+    "repairs": []
+   },
+   "edit": null,
+   "review": null
+  },
+  {
+   "campaign_id": "oppcampaign-915af303bf534c9f8cf9b040f33de60b",
+   "run_id": "agent-02fcc3174cfb4f9b8c959c42056f3624",
+   "opportunity_id": "riyadh-waterscapes",
+   "created_at": "2026-10-31T09:42:13.083923+00:00",
+   "status": "PENDING_APPROVAL",
+   "evidence_fingerprint": "8364d6395247f94d728183bd3b02566a13bafa821b7da1107265bf4d0fd71f7a",
+   "campaign": {
+    "campaign_name": {
+     "en": "Valleys and Waterscapes in Riyadh",
+     "ar": "الأودية والواحات والمياه في الرياض"
+    },
+    "central_concept": {
+     "en": "Promoting Riyadh's natural green spaces.",
+     "ar": "الترويج لمتنفسات الرياض الطبيعية."
+    },
+    "objectives": [
+     {
+      "en": "Increase awareness of local waterscapes and parks.",
+      "ar": "زيادة الوعي بالمسطحات المائية والحدائق المحلية."
+     },
+     {
+      "en": "Encourage family visits to these green spaces.",
+      "ar": "تشجيع العائلات على زيارة هذه المساحات الخضراء."
+     },
+     {
+      "en": "Highlight the beauty of nature just a short drive from the city.",
+      "ar": "تسليط الضوء على جمال الطبيعة على بُعد مسافة قصيرة من المدينة."
+     }
+    ],
+    "target_audience": {
+     "en": "Families and nature lovers in Riyadh and surrounding areas.",
+     "ar": "العائلات ومحبي الطبيعة في الرياض والمناطق المحيطة."
+    },
+    "audience_rationale_hypothesis": {
+     "en": "Families are likely seeking recreational spaces for outings.",
+     "ar": "من المحتمل أن تسعى العائلات للحصول على أماكن ترفيهية للنزهات."
+    },
+    "positioning": {
+     "en": "Riyadh's peaceful green retreats.",
+     "ar": "الملاذات الخضراء الهادئة في الرياض."
+    },
+    "opportunity_hypothesis": {
+     "en": "Riyadh's natural landscapes provide a unique appeal for those looking to escape urban life.",
+     "ar": "توفر المناظر الطبيعية في الرياض جاذبية فريدة لأولئك الذين يبحثون عن الهروب من الحياة الحضرية."
+    },
+    "key_messages": [
+     {
+      "en": "Discover the serene waters of Riyadh's valleys and parks.",
+      "ar": "اكتشف مياه وادي وحدائق الرياض الهادئة."
+     },
+     {
+      "en": "Reconnect with nature just minutes away from the city center.",
+      "ar": "أعد الاتصال بالطبيعة على بُعد دقائق فقط من مركز المدينة."
+     }
+    ],
+    "creative_direction": {
+     "en": "Focus on vibrant imagery of parks and water features.",
+     "ar": "التركيز على الصور النابضة للحدائق والميزات المائية."
+    },
+    "social_posts": [
+     {
+      "post_id": "1",
+      "channel": "Instagram",
+      "caption": {
+       "en": "Explore the stunning Wadi Namar with your family this weekend!",
+       "ar": "استكشف وادي نمار الرائع مع عائلتك هذا الأسبوع!"
+      }
+     },
+     {
+      "post_id": "2",
+      "channel": "Facebook",
+      "caption": {
+       "en": "Experience the beauty of Wadi Hanifa at sunset. Nature awaits!",
+       "ar": "اختبر جمال وادي حنيفة عند غروب الشمس. الطبيعة تنتظرك!"
+      }
+     }
+    ],
+    "suggested_channels": [
+     "Instagram",
+     "Facebook"
+    ],
+    "publishing_schedule": [
+     {
+      "post_id": "1",
+      "days_after_human_approved_launch": 1,
+      "local_time": "09:00",
+      "timezone": "Asia/Riyadh",
+      "channel": "Instagram",
+      "activity": {
+       "en": "Post about Wadi Namar Park visit.",
+       "ar": "نشر حول زيارة وادي نمار."
+      }
+     },
+     {
+      "post_id": "2",
+      "days_after_human_approved_launch": 2,
+      "local_time": "17:00",
+      "timezone": "Asia/Riyadh",
+      "channel": "Facebook",
+      "activity": {
+       "en": "Share sunset pictures of Wadi Hanifa.",
+       "ar": "مشاركة صور عند غروب الشمس لوادي حنيفة."
+      }
+     }
+    ],
+    "kpis_and_measurement": [
+     {
+      "metric": {
+       "en": "Engagement on social media posts",
+       "ar": "المشاركة في منشورات وسائل التواصل الاجتماعي"
+      },
+      "measurement_plan": {
+       "en": "Track likes, shares, and comments over a month.",
+       "ar": "تتبع الإعجابات والمشاركات والتعليقات على مدى شهر."
+      },
+      "baseline": "UNMEASURED",
+      "proposed_target_hypothesis": {
+       "en": "Achieve at least 500 engagements across platforms.",
+       "ar": "تحقيق ما لا يقل عن 500 مشاركة عبر المنصات."
+      }
+     }
+    ],
+    "risks_uncertainties_validation": [
+     {
+      "en": "Verify if there are any entrance fees or restrictions in the parks.",
+      "ar": "التحقق مما إذا كان هناك أي رسوم دخول أو قيود في المتنزهات."
+     },
+     {
+      "en": "Confirm if current promotions accurately represent the parks and their features.",
+      "ar": "تأكيد ما إذا كانت الترويج الحالي تمثل بدقة المتنزهات وميزاتها."
+     }
+    ],
+    "destination": {
+     "entity_id": null,
+     "name": {
+      "en": "Valleys, oases and waterscapes in Riyadh",
+      "ar": "الأودية والواحات والمياه في الرياض"
+     },
+     "location_context": {
+      "en": "Riyadh",
+      "ar": "الرياض"
+     }
+    },
+    "evidence_strength": "strong",
+    "evidence_label": "Strong evidence"
+   },
+   "evidence": {
+    "dossier": {
+     "opportunity_id": "riyadh-waterscapes",
+     "kind": "regional_experience",
+     "title": {
+      "en": "Valleys, oases and waterscapes in Riyadh",
+      "ar": "الأودية والواحات والمياه في الرياض"
+     },
+     "proposed_angle": {
+      "en": "Green escapes minutes from the capital: wadis, lakes and waterside parks for Riyadh residents and visitors.",
+      "ar": "متنفسات خضراء قرب العاصمة: أودية وبحيرات ومتنزهات مائية لسكان الرياض وزوارها."
+     },
+     "evidence_strength": "strong",
+     "identity": null,
+     "totals": {
+      "photo_count": 5,
+      "distinct_photographers": 5,
+      "views": {
+       "total": 19808,
+       "photos_reporting": 5
+      },
+      "favorites": {
+       "total": 467,
+       "photos_reporting": 5
+      },
+      "comments": {
+       "total": 80,
+       "photos_reporting": 5
+      },
+      "capture_years": {
+       "first": "2013",
+       "last": "2024"
+      }
+     },
+     "geography": {
+      "regions": [
+       {
+        "key": "riyadh",
+        "en": "Riyadh",
+        "ar": "الرياض",
+        "photos": 5
+       }
+      ],
+      "localities": [
+       "الرياض",
+       "نمار",
+       "As Sifārāt"
+      ],
+      "geotagged_photos": 3,
+      "precise_geotags": 2
+     },
+     "photos": [
+      {
+       "evidence_ref": "photo:11432341654",
+       "title": "Wadi Laban park Riyadh",
+       "description": "",
+       "tags": [],
+       "photographer": "Shakil Ahmad",
+       "photo_url": "https://www.flickr.com/photos/66345577@N08/11432341654/",
+       "captured_at": "2013-12-14 16:52:00",
+       "engagement": {
+        "views": 2349,
+        "favorites": 24,
+        "comments": 9
+       },
+       "region": "riyadh",
+       "locality": "الرياض",
+       "geotag_precision": "city_level_geotag",
+       "themes": [
+        "valleys_waterscapes"
+       ],
+       "stored_openclip": null
+      },
+      {
+       "evidence_ref": "photo:28647702697",
+       "title": "Namar Valley",
+       "description": "",
+       "tags": [],
+       "photographer": "Maher Najm",
+       "photo_url": "https://www.flickr.com/photos/21416599@N08/28647702697/",
+       "captured_at": "2018-07-18 18:55:21",
+       "engagement": {
+        "views": 11510,
+        "favorites": 302,
+        "comments": 55
+       },
+       "region": "riyadh",
+       "locality": "الرياض",
+       "geotag_precision": "precise_geotag",
+       "themes": [
+        "valleys_waterscapes"
+       ],
+       "stored_openclip": null
+      },
+      {
+       "evidence_ref": "photo:36584720163",
+       "title": "وادي نمار",
+       "description": "",
+       "tags": [],
+       "photographer": "abonawaf",
+       "photo_url": "https://www.flickr.com/photos/55376940@N08/36584720163/",
+       "captured_at": "2017-09-23 04:20:39",
+       "engagement": {
+        "views": 4468,
+        "favorites": 25,
+        "comments": 11
+       },
+       "region": "riyadh",
+       "locality": null,
+       "geotag_precision": "region_only",
+       "themes": [
+        "valleys_waterscapes"
+       ],
+       "stored_openclip": {
+        "decision": "uncertain",
+        "environment": null,
+        "model": "ViT-B-32",
+        "analyzed_at": "2026-10-30T15:40:52.099459+00:00"
+       }
+      },
+      {
+       "evidence_ref": "photo:46625047862",
+       "title": "Al-Darhyia  Lake",
+       "description": "",
+       "tags": [],
+       "photographer": "Ayman Zarif",
+       "photo_url": "https://www.flickr.com/photos/36506941@N05/46625047862/",
+       "captured_at": "2016-03-11 20:34:08",
+       "engagement": {
+        "views": 942,
+        "favorites": 95,
+        "comments": 2
+       },
+       "region": "riyadh",
+       "locality": null,
+       "geotag_precision": "region_only",
+       "themes": [
+        "valleys_waterscapes"
+       ],
+       "stored_openclip": null
+      },
+      {
+       "evidence_ref": "photo:53504590533",
+       "title": "Wadi Hanifa at sunset",
+       "description": "",
+       "tags": [],
+       "photographer": "Gordon Tang",
+       "photo_url": "https://www.flickr.com/photos/67226407@N03/53504590533/",
+       "captured_at": "2024-02-02 17:33:27",
+       "engagement": {
+        "views": 539,
+        "favorites": 21,
+        "comments": 3
+       },
+       "region": "riyadh",
+       "locality": "As Sifārāt",
+       "geotag_precision": "precise_geotag",
+       "themes": [
+        "valleys_waterscapes"
+       ],
+       "stored_openclip": null
+      }
+     ],
+     "stored_research": [],
+     "not_assessed": {
+      "promotional_coverage": "not_researched",
+      "underrepresentation": "not_assessed",
+      "demand": "not_assessed"
+     },
+     "sensitive_note": null
+    },
+    "claims": [
+     {
+      "claim": "The evidence shows multiple photographs of Wadi Namar Park, highlighting its artificial lake and beautiful landscapes popular among families.",
+      "evidence_refs": [
+       "photo:28647702697"
+      ]
+     },
+     {
+      "claim": "Photos from Wadi Hanifa depict scenic views at sunset, illustrating the natural beauty of the area, making it an attractive spot for relaxation.",
+      "evidence_refs": [
+       "photo:53504590533"
+      ]
+     }
+    ],
+    "uncertainties": [
+     "Verify if there are any entrance fees or regulations for visiting these parks.",
+     "Assess the current promotional coverage of these natural sites to understand the market context."
+    ],
+    "recommendation": "Launch a campaign promoting the waterscapes and natural parks around Riyadh to attract both residents and visitors seeking green spaces.",
+    "marketing_angle": "Green escapes minutes from the capital: wadis, lakes and waterside parks for Riyadh residents and visitors.",
+    "repairs": []
+   },
+   "edit": null,
+   "review": null
+  },
+  {
+   "campaign_id": "oppcampaign-e119a0ba20ec41bdafe8bf4b4173b24a",
+   "run_id": "agent-6a0a617bdf3d47d993207707e351c922",
+   "opportunity_id": "rijal-almaa",
+   "created_at": "2026-10-31T09:42:13.091108+00:00",
+   "status": "PENDING_APPROVAL",
+   "evidence_fingerprint": "d05ab227fe0d612ec95f6cd2f9296d4fe80819c6e36acb4f85161769a1b7791b",
+   "campaign": {
+    "campaign_name": {
+     "en": "Discover Rijal Almaa",
+     "ar": "اكتشف رجال المع"
+    },
+    "central_concept": {
+     "en": "Explore the Heritage of Rijal Almaa",
+     "ar": "استكشف تراث رجال المع"
+    },
+    "objectives": [
+     {
+      "en": "Increase awareness of Rijal Almaa as a heritage destination.",
+      "ar": "زيادة الوعي برجال المع كوجهة تراثية."
+     },
+     {
+      "en": "Engage audiences through visually appealing content.",
+      "ar": "جذب الجماهير من خلال محتوى مرئي جذاب."
+     },
+     {
+      "en": "Encourage visits to the Asir region.",
+      "ar": "تشجيع الزيارات إلى منطقة عسير."
+     }
+    ],
+    "target_audience": {
+     "en": "Local and regional travelers looking for rich cultural experiences.",
+     "ar": "المسافرون المحليون والإقليميون الباحثون عن تجارب ثقافية غنية."
+    },
+    "audience_rationale_hypothesis": {
+     "en": "Target audiences often seek cultural and heritage experiences in their travels.",
+     "ar": "تسعى الجماهير المستهدفة غالبًا إلى تجارب ثقافية وتراثية في رحلاتهم."
+    },
+    "positioning": {
+     "en": "Position Rijal Almaa as a must-see heritage destination in Saudi Arabia.",
+     "ar": "وضع رجال المع كوجهة تراثية يجب رؤيتها في المملكة العربية السعودية."
+    },
+    "opportunity_hypothesis": {
+     "en": "Rijal Almaa's unique heritage and stunning visuals can attract cultural enthusiasts.",
+     "ar": "يمكن أن تجذب التراث الفريد ورؤى رجال المع عشاق الثقافة."
+    },
+    "key_messages": [
+     {
+      "en": "Experience the charm of Asir's heritage village.",
+      "ar": "اكتشف سحر قرية التراث في عسير."
+     },
+     {
+      "en": "Visit Rijal Almaa, a unique blend of history and nature.",
+      "ar": "قم بزيارة رجال المع، مزيج فريد من التاريخ والطبيعة."
+     }
+    ],
+    "creative_direction": {
+     "en": "Use vibrant visuals of the village and engaging narratives in campaign content.",
+     "ar": "استخدام صور نابضة بالحياة للقرية وسرد قصص مثيرة في محتوى الحملة."
+    },
+    "social_posts": [
+     {
+      "post_id": "post-1",
+      "channel": "Instagram",
+      "caption": {
+       "en": "Discover the rich heritage and breathtaking views at Rijal Almaa!",
+       "ar": "اكتشف التراث الغني والمشاهد الخلابة في رجال المع!"
+      }
+     },
+     {
+      "post_id": "post-2",
+      "channel": "Facebook",
+      "caption": {
+       "en": "Explore the historic village of Rijal Almaa – a hidden treasure of Asir!",
+       "ar": "استكشف القرية التاريخية رجال المع - كنز مخفي في عسير!"
+      }
+     }
+    ],
+    "suggested_channels": [
+     "Instagram",
+     "Facebook"
+    ],
+    "publishing_schedule": [
+     {
+      "post_id": "post-1",
+      "days_after_human_approved_launch": 0,
+      "local_time": "10:00",
+      "timezone": "Asia/Riyadh",
+      "channel": "Instagram",
+      "activity": {
+       "en": "Launch first post promoting Rijal Almaa.",
+       "ar": "إطلاق أول منشور يروّج لرجال المع."
+      }
+     },
+     {
+      "post_id": "post-2",
+      "days_after_human_approved_launch": 1,
+      "local_time": "12:00",
+      "timezone": "Asia/Riyadh",
+      "channel": "Facebook",
+      "activity": {
+       "en": "Share engaging content about the heritage village.",
+       "ar": "مشاركة محتوى جذاب عن القرية التراثية."
+      }
+     }
+    ],
+    "kpis_and_measurement": [
+     {
+      "metric": {
+       "en": "Engagement rate on social media posts",
+       "ar": "معدل التفاعل على منشورات وسائل التواصل الاجتماعي"
+      },
+      "measurement_plan": {
+       "en": "Track likes, shares, and comments on posts.",
+       "ar": "مراقبة الإعجابات والمشاركات والتعليقات على المنشورات."
+      },
+      "baseline": "UNMEASURED",
+      "proposed_target_hypothesis": {
+       "en": "Achieve a 5% engagement rate by campaign end.",
+       "ar": "تحقيق معدل تفاعل بنسبة 5% بنهاية الحملة."
+      }
+     }
+    ],
+    "risks_uncertainties_validation": [
+     {
+      "en": "Validate the accessibility and visitor information regarding Rijal Almaa.",
+      "ar": "التحقق من إمكانية الوصول ومعلومات الزوار بشأن رجال المع."
+     },
+     {
+      "en": "Confirm if there are any heritage events or festivals at Rijal Almaa during the campaign period.",
+      "ar": "تأكيد ما إذا كانت هناك أي فعاليات أو مهرجانات تراثية في رجال المع خلال فترة الحملة."
+     }
+    ],
+    "destination": {
+     "entity_id": null,
+     "name": {
+      "en": "Rijal Almaa",
+      "ar": "رجال ألمع"
+     },
+     "location_context": {
+      "en": "Asir",
+      "ar": "عسير"
+     }
+    },
+    "evidence_strength": "strong",
+    "evidence_label": "Strong evidence"
+   },
+   "evidence": {
+    "dossier": {
+     "opportunity_id": "rijal-almaa",
+     "kind": "named_destination",
+     "title": {
+      "en": "Rijal Almaa",
+      "ar": "رجال ألمع"
+     },
+     "proposed_angle": {
+      "en": "A stone-tower heritage village set in Asir's mountains, shared by many different photographers.",
+      "ar": "قرية تراثية بأبراجها الحجرية بين جبال عسير، وثّقها مصورون كثيرون."
+     },
+     "evidence_strength": "strong",
+     "identity": {
+      "status": "unverified_metadata_name",
+      "entity_id": null,
+      "place_type": "village",
+      "name_sources": {
+       "title": 5,
+       "tags": 1
+      },
+      "alias_group": true,
+      "note": "Name read from Flickr metadata; existence not yet confirmed."
+     },
+     "totals": {
+      "photo_count": 6,
+      "distinct_photographers": 6,
+      "views": {
+       "total": 5113,
+       "photos_reporting": 6
+      },
+      "favorites": {
+       "total": 218,
+       "photos_reporting": 6
+      },
+      "comments": {
+       "total": 102,
+       "photos_reporting": 6
+      },
+      "capture_years": {
+       "first": "2010",
+       "last": "2021"
+      }
+     },
+     "geography": {
+      "regions": [
+       {
+        "key": "asir",
+        "en": "Asir",
+        "ar": "عسير",
+        "photos": 6
+       }
+      ],
+      "localities": [],
+      "geotagged_photos": 0,
+      "precise_geotags": 0
+     },
+     "photos": [
+      {
+       "evidence_ref": "photo:18267251386",
+       "title": "rejal alma رجال ألمع",
+       "description": "",
+       "tags": [],
+       "photographer": "thamer al-ghamdi",
+       "photo_url": "https://www.flickr.com/photos/33950948@N04/18267251386/",
+       "captured_at": "2015-05-29 18:17:27",
+       "engagement": {
+        "views": 691,
+        "favorites": 4,
+        "comments": 13
+       },
+       "region": "asir",
+       "locality": null,
+       "geotag_precision": "region_only",
+       "themes": [],
+       "stored_openclip": null
+      },
+      {
+       "evidence_ref": "photo:4597920799",
+       "title": "رجال ألمع",
+       "description": "",
+       "tags": [],
+       "photographer": "ــو YASSER أبــ",
+       "photo_url": "https://www.flickr.com/photos/49299223@N07/4597920799/",
+       "captured_at": "2010-05-05 19:33:48",
+       "engagement": {
+        "views": 429,
+        "favorites": 0,
+        "comments": 6
+       },
+       "region": "asir",
+       "locality": null,
+       "geotag_precision": "region_only",
+       "themes": [],
+       "stored_openclip": null
+      },
+      {
+       "evidence_ref": "photo:51228504040",
+       "title": "Historic Castle - Rijal Alma, Abha, Saudi Arabia (Historic Village)",
+       "description": "",
+       "tags": [],
+       "photographer": "Photonistan",
+       "photo_url": "https://www.flickr.com/photos/152234039@N02/51228504040/",
+       "captured_at": "2021-05-29 20:28:01",
+       "engagement": {
+        "views": 2292,
+        "favorites": 195,
+        "comments": 15
+       },
+       "region": "asir",
+       "locality": null,
+       "geotag_precision": "region_only",
+       "themes": [
+        "mountain_highlands",
+        "heritage_villages_forts"
+       ],
+       "stored_openclip": null
+      },
+      {
+       "evidence_ref": "photo:5495001603",
+       "title": "Rowam4",
+       "description": "",
+       "tags": [],
+       "photographer": "☰ حسن أحمساني",
+       "photo_url": "https://www.flickr.com/photos/52018016@N06/5495001603/",
+       "captured_at": "2011-03-04 01:34:37",
+       "engagement": {
+        "views": 847,
+        "favorites": 15,
+        "comments": 68
+       },
+       "region": "asir",
+       "locality": null,
+       "geotag_precision": "region_only",
+       "themes": [
+        "valleys_waterscapes"
+       ],
+       "stored_openclip": null
+      },
+      {
+       "evidence_ref": "photo:6184718045",
+       "title": "الطريق الى رجال ألمع",
+       "description": "",
+       "tags": [],
+       "photographer": "metab Algorab Alalmai",
+       "photo_url": "https://www.flickr.com/photos/66743488@N04/6184718045/",
+       "captured_at": "2011-09-26 05:37:17",
+       "engagement": {
+        "views": 344,
+        "favorites": 3,
+        "comments": 0
+       },
+       "region": "asir",
+       "locality": null,
+       "geotag_precision": "region_only",
+       "themes": [],
+       "stored_openclip": null
+      },
+      {
+       "evidence_ref": "photo:8308103019",
+       "title": "رجال المع - العوص - منتزه ألمع",
+       "description": "",
+       "tags": [],
+       "photographer": "فهد الالمعي",
+       "photo_url": "https://www.flickr.com/photos/74559741@N05/8308103019/",
+       "captured_at": "2012-10-30 23:03:36",
+       "engagement": {
+        "views": 510,
+        "favorites": 1,
+        "comments": 0
+       },
+       "region": "asir",
+       "locality": null,
+       "geotag_precision": "region_only",
+       "themes": [],
+       "stored_openclip": null
+      }
+     ],
+     "stored_research": [],
+     "not_assessed": {
+      "promotional_coverage": "not_researched",
+      "underrepresentation": "not_assessed",
+      "demand": "not_assessed"
+     },
+     "sensitive_note": null
+    },
+    "claims": [
+     {
+      "claim": "Rijal Almaa is featured by multiple photographers capturing its historical and scenic beauty, with 6 distinct photographers contributing 6 photos.",
+      "evidence_refs": [
+       "photo:18267251386",
+       "photo:4597920799",
+       "photo:51228504040",
+       "photo:5495001603",
+       "photo:6184718045",
+       "photo:8308103019"
+      ]
+     },
+     {
+      "claim": "The village consists of around 60 traditional buildings made of natural materials, reflecting a rich heritage, as highlighted in the photo descriptions.",
+      "evidence_refs": [
+       "photo:51228504040"
+      ]
+     }
+    ],
+    "uncertainties": [
+     "Verify the exact historical significance and open access to the heritage village before launch.",
+     "Confirm any logistical details for visiting the village and whether guided tours or services are available."
+    ],
+    "recommendation": "Draft a campaign to promote Rijal Almaa as a unique heritage destination in the Asir region.",
+    "marketing_angle": "A stone-tower heritage village set in Asir's mountains, shared by many different photographers.",
+    "repairs": [
+     "The model reused a post ID, so ATIA renumbered the posts."
+    ]
+   },
+   "edit": null,
+   "review": null
+  },
+  {
+   "campaign_id": "oppcampaign-a18f34cac8da4238a600ee03e23784b7",
+   "run_id": "agent-eb972a8b86fe4520bf614caae989f986",
+   "opportunity_id": "farasan-islands",
+   "created_at": "2026-10-31T09:42:13.098760+00:00",
+   "status": "PENDING_APPROVAL",
+   "evidence_fingerprint": "817e65f4ab8eac43bf95f8944360b315be42e0de64ea5e5b1072b7edc9dbc8ea",
+   "campaign": {
+    "campaign_name": {
+     "en": "Farasan Islands",
+     "ar": "جزر فرسان"
+    },
+    "central_concept": {
+     "en": "Red Sea island escape: exploring marine life and heritage.",
+     "ar": "ملاذ جزر البحر الأحمر: استكشاف الحياة البحرية والتراث."
+    },
+    "objectives": [
+     {
+      "en": "Promote marine tourism activities such as diving and fishing.",
+      "ar": "الترويج للأنشطة البحرية مثل الغوص والصيد."
+     },
+     {
+      "en": "Highlight the unique cultural and historical heritage of the islands.",
+      "ar": "تسليط الضوء على التراث الثقافي والتاريخي الفريد للجزر."
+     },
+     {
+      "en": "Increase awareness of the Farasan Islands as a travel destination.",
+      "ar": "زيادة الوعي بجزر فرسان كوجهة سفر."
+     }
+    ],
+    "target_audience": {
+     "en": "Domestic and international tourists interested in marine activities and cultural exploration.",
+     "ar": "السياح المحليون والدوليون المهتمون بالأنشطة البحرية والاستكشاف الثقافي."
+    },
+    "audience_rationale_hypothesis": {
+     "en": "Targeting adventure seekers and cultural enthusiasts will foster interest in the unique offerings of the islands.",
+     "ar": "استهداف الباحثين عن المغامرات وعشاق الثقافة سيزيد من الاهتمام بالعروض الفريدة للجزر."
+    },
+    "positioning": {
+     "en": "The Farasan Islands as a premier island getaway for adventure and culture lovers.",
+     "ar": "جزر فرسان كملاذ مثالي لعشاق المغامرة والثقافة."
+    },
+    "opportunity_hypothesis": {
+     "en": "The picturesque nature and cultural heritage of the Farasan Islands can attract more tourists, especially those interested in marine life.",
+     "ar": "يمكن أن تجذب الطبيعة الخلابة والتراث الثقافي لجزر فرسان المزيد من السياح، خاصة المهتمين بالحياة البحرية."
+    },
+    "key_messages": [
+     {
+      "en": "Discover the untouched beauty of the Farasan Islands.",
+      "ar": "اكتشف الجمال البكر لجزر فرسان."
+     },
+     {
+      "en": "Experience the adventure of diving and fishing in the Red Sea.",
+      "ar": "عِش مغامرة الغوص والصيد في البحر الأحمر."
+     }
+    ],
+    "creative_direction": {
+     "en": "Imagery that captures the serene beaches, marine life, and traditional island architecture.",
+     "ar": "صور تعكس الشواطئ الهادئة، والحياة البحرية، والعمارة التقليدية للجزر."
+    },
+    "social_posts": [
+     {
+      "post_id": "farasan_post_1",
+      "channel": "Instagram",
+      "caption": {
+       "en": "Explore the beauty of Farasan Islands: a marine paradise!",
+       "ar": "استكشف جمال جزر فرسان: جنة بحرية!"
+      }
+     },
+     {
+      "post_id": "farasan_post_2",
+      "channel": "Facebook",
+      "caption": {
+       "en": "Diving adventures await in the turquoise waters of Farasan!",
+       "ar": "مغامرات الغوص تنتظركم في المياه الفيروزية لفرسان!"
+      }
+     }
+    ],
+    "suggested_channels": [
+     "Instagram",
+     "Facebook"
+    ],
+    "publishing_schedule": [
+     {
+      "post_id": "farasan_post_1",
+      "days_after_human_approved_launch": 1,
+      "local_time": "10:00",
+      "timezone": "Asia/Riyadh",
+      "channel": "Instagram",
+      "activity": {
+       "en": "Launch introductory post about Farasan Islands.",
+       "ar": "نشر منشور تعريفي عن جزر فرسان."
+      }
+     },
+     {
+      "post_id": "farasan_post_2",
+      "days_after_human_approved_launch": 2,
+      "local_time": "11:00",
+      "timezone": "Asia/Riyadh",
+      "channel": "Facebook",
+      "activity": {
+       "en": "Share diving experiences in Farasan Islands.",
+       "ar": "مشاركة تجارب الغوص في جزر فرسان."
+      }
+     }
+    ],
+    "kpis_and_measurement": [
+     {
+      "metric": {
+       "en": "Engagement rate on social media posts",
+       "ar": "معدل التفاعل على منشورات وسائل التواصل الاجتماعي"
+      },
+      "measurement_plan": {
+       "en": "Track likes, shares, and comments across platforms",
+       "ar": "تتبع الإعجابات والمشاركات والتعليقات عبر المنصات"
+      },
+      "baseline": "UNMEASURED",
+      "proposed_target_hypothesis": {
+       "en": "Achieve a minimum engagement rate of 5% on promotional posts.",
+       "ar": "تحقيق معدل تفاعل لا يقل عن 5% على المنشورات الترويجية."
+      }
+     }
+    ],
+    "risks_uncertainties_validation": [
+     {
+      "en": "Verify the existence of diving and fishing services on the Farasan Islands.",
+      "ar": "التحقق من وجود خدمات الغوص والصيد في جزر فرسان."
+     },
+     {
+      "en": "Confirm accessibility of heritage sites for tourists.",
+      "ar": "تأكيد إمكانية الوصول إلى المواقع التراثية للسياح."
+     }
+    ],
+    "destination": {
+     "entity_id": "entity-c652dc5e75b353ddbe5f",
+     "name": {
+      "en": "Farasan Islands",
+      "ar": "جزر فرسان"
+     },
+     "location_context": {
+      "en": "Jazan",
+      "ar": "جازان"
+     }
+    },
+    "evidence_strength": "strong",
+    "evidence_label": "Strong evidence"
+   },
+   "evidence": {
+    "dossier": {
+     "opportunity_id": "farasan-islands",
+     "kind": "named_destination",
+     "title": {
+      "en": "Farasan Islands",
+      "ar": "جزر فرسان"
+     },
+     "proposed_angle": {
+      "en": "Red Sea island escape: diving, fishing boats and coral-stone heritage houses.",
+      "ar": "ملاذ جزر البحر الأحمر: الغوص وقوارب الصيد والبيوت التراثية."
+     },
+     "evidence_strength": "strong",
+     "identity": {
+      "status": "verified_entity_exists",
+      "entity_id": "entity-c652dc5e75b353ddbe5f",
+      "place_type": "island",
+      "name_sources": {
+       "title": 7,
+       "tags": 2,
+       "description": 1
+      },
+      "alias_group": true,
+      "note": "Verified means an authoritative source confirms the place exists, not that these photos show it."
+     },
+     "totals": {
+      "photo_count": 10,
+      "distinct_photographers": 8,
+      "views": {
+       "total": 11610,
+       "photos_reporting": 10
+      },
+      "favorites": {
+       "total": 29,
+       "photos_reporting": 10
+      },
+      "comments": {
+       "total": 28,
+       "photos_reporting": 10
+      },
+      "capture_years": {
+       "first": "2007",
+       "last": "2020"
+      }
+     },
+     "geography": {
+      "regions": [
+       {
+        "key": "jazan",
+        "en": "Jazan",
+        "ar": "جازان",
+        "photos": 10
+       }
+      ],
+      "localities": [
+       "Farasan",
+       "Farasān",
+       "Ash Sha‘ar",
+       "Khillah"
+      ],
+      "geotagged_photos": 6,
+      "precise_geotags": 5
+     },
+     "photos": [
+      {
+       "evidence_ref": "photo:14648926871",
+       "title": "عزال جزر فرسان",
+       "description": "",
+       "tags": [],
+       "photographer": "Bader Al-Qassem بدر القاسم",
+       "photo_url": "https://www.flickr.com/photos/32910835@N08/14648926871/",
+       "captured_at": "2014-03-02 09:55:44",
+       "engagement": {
+        "views": 1773,
+        "favorites": 21,
+        "comments": 15
+       },
+       "region": "jazan",
+       "locality": null,
+       "geotag_precision": "region_only",
+       "themes": [
+        "coastal_marine"
+       ],
+       "stored_openclip": null
+      },
+      {
+       "evidence_ref": "photo:15399758757",
+       "title": "Farasan Island",
+       "description": "",
+       "tags": [],
+       "photographer": "Muhammad Zain Photography",
+       "photo_url": "https://www.flickr.com/photos/128252515@N07/15399758757/",
+       "captured_at": "2014-10-18 17:53:23",
+       "engagement": {
+        "views": 583,
+        "favorites": 2,
+        "comments": 3
+       },
+       "region": "jazan",
+       "locality": null,
+       "geotag_precision": "region_only",
+       "themes": [
+        "coastal_marine"
+       ],
+       "stored_openclip": null
+      },
+      {
+       "evidence_ref": "photo:15844527591",
+       "title": "رحلة صيد في جزيرة فرسان ( جيزان) مع مجموعة من الأصدقاء   A fishing trip in Farasan island in the southern port of Saudi   #finishing #fish #sea  #trip #Farasan #jazan #lights #dark #moon #moon_light #night   #boat   #fishing_boat #Instagram #island #in_th",
+       "description": "",
+       "tags": [],
+       "photographer": "mr9raied",
+       "photo_url": "https://www.flickr.com/photos/12571439@N06/15844527591/",
+       "captured_at": "2014-11-21 12:34:40",
+       "engagement": {
+        "views": 163,
+        "favorites": 0,
+        "comments": 0
+       },
+       "region": "jazan",
+       "locality": "Farasan",
+       "geotag_precision": "precise_geotag",
+       "themes": [
+        "coastal_marine"
+       ],
+       "stored_openclip": null
+      },
+      {
+       "evidence_ref": "photo:2132542371",
+       "title": "Clownfish and Anemone",
+       "description": "",
+       "tags": [],
+       "photographer": "Michael R. Reilly",
+       "photo_url": "https://www.flickr.com/photos/7271760@N04/2132542371/",
+       "captured_at": "2007-12-20 08:03:41",
+       "engagement": {
+        "views": 556,
+        "favorites": 0,
+        "comments": 2
+       },
+       "region": "jazan",
+       "locality": null,
+       "geotag_precision": "region_only",
+       "themes": [],
+       "stored_openclip": null
+      },
+      {
+       "evidence_ref": "photo:22615942988",
+       "title": "Night Dive Fish",
+       "description": "",
+       "tags": [],
+       "photographer": "ABDULLAH ALEISA",
+       "photo_url": "https://www.flickr.com/photos/34248347@N08/22615942988/",
+       "captured_at": "2015-11-15 19:40:50",
+       "engagement": {
+        "views": 65,
+        "favorites": 0,
+        "comments": 0
+       },
+       "region": "jazan",
+       "locality": null,
+       "geotag_precision": "region_only",
+       "themes": [
+        "coastal_marine"
+       ],
+       "stored_openclip": null
+      },
+      {
+       "evidence_ref": "photo:3323584085",
+       "title": "High as the Sky",
+       "description": "",
+       "tags": [],
+       "photographer": "Rayan M.",
+       "photo_url": "https://www.flickr.com/photos/29567062@N03/3323584085/",
+       "captured_at": "2009-02-24 10:35:39",
+       "engagement": {
+        "views": 5295,
+        "favorites": 2,
+        "comments": 8
+       },
+       "region": "jazan",
+       "locality": "Farasan",
+       "geotag_precision": "precise_geotag",
+       "themes": [],
+       "stored_openclip": null
+      },
+      {
+       "evidence_ref": "photo:49585702448",
+       "title": "Farasan Island",
+       "description": "",
+       "tags": [],
+       "photographer": "hanming_huang",
+       "photo_url": "https://www.flickr.com/photos/29868194@N08/49585702448/",
+       "captured_at": "2020-01-13 12:23:18",
+       "engagement": {
+        "views": 233,
+        "favorites": 1,
+        "comments": 0
+       },
+       "region": "jazan",
+       "locality": "Farasān",
+       "geotag_precision": "precise_geotag",
+       "themes": [
+        "coastal_marine"
+       ],
+       "stored_openclip": null
+      },
+      {
+       "evidence_ref": "photo:49586007781",
+       "title": "Farasan Heritage Village",
+       "description": "",
+       "tags": [],
+       "photographer": "hanming_huang",
+       "photo_url": "https://www.flickr.com/photos/29868194@N08/49586007781/",
+       "captured_at": "2020-01-13 09:01:39",
+       "engagement": {
+        "views": 1348,
+        "favorites": 0,
+        "comments": 0
+       },
+       "region": "jazan",
+       "locality": "Ash Sha‘ar",
+       "geotag_precision": "precise_geotag",
+       "themes": [
+        "coastal_marine",
+        "heritage_villages_forts"
+       ],
+       "stored_openclip": null
+      },
+      {
+       "evidence_ref": "photo:49586208876",
+       "title": "Farasan Island",
+       "description": "",
+       "tags": [],
+       "photographer": "hanming_huang",
+       "photo_url": "https://www.flickr.com/photos/29868194@N08/49586208876/",
+       "captured_at": "2020-01-13 10:26:41",
+       "engagement": {
+        "views": 254,
+        "favorites": 0,
+        "comments": 0
+       },
+       "region": "jazan",
+       "locality": "Khillah",
+       "geotag_precision": "precise_geotag",
+       "themes": [
+        "coastal_marine"
+       ],
+       "stored_openclip": null
+      },
+      {
+       "evidence_ref": "photo:9305523960",
+       "title": "Farasan Island_0392",
+       "description": "",
+       "tags": [],
+       "photographer": "Bandar Yuosef",
+       "photo_url": "https://www.flickr.com/photos/9922390@N07/9305523960/",
+       "captured_at": "2014-10-23 15:47:55",
+       "engagement": {
+        "views": 1340,
+        "favorites": 3,
+        "comments": 0
+       },
+       "region": "jazan",
+       "locality": null,
+       "geotag_precision": "coarse_geotag",
+       "themes": [
+        "coastal_marine"
+       ],
+       "stored_openclip": null
+      }
+     ],
+     "stored_research": [
+      {
+       "evidence_ref": "research:https://www.visitsaudi.com/en/stories/farasan-islands-fishing",
+       "title": "Farasan Islands Fishing - Visit Saudi Official Website",
+       "publisher": "Visit Saudi / Saudi Tourism Authority",
+       "url": "https://www.visitsaudi.com/en/stories/farasan-islands-fishing",
+       "excerpt": "Off the coast of Jazan, the Farasan Islands are an archipelago of more than 170 islands dotting the turquoise waters of the Red Sea."
+      },
+      {
+       "evidence_ref": "research:https://whc.unesco.org/en/tentativelists/6370",
+       "title": "Farasan Islands Protected Area - UNESCO World Heritage Centre",
+       "publisher": "UNESCO World Heritage Centre",
+       "url": "https://whc.unesco.org/en/tentativelists/6370",
+       "excerpt": "The Farasan Islands are a large archipelago of over 170 islands and islets of uplifted coral reef lying 40-90 km offshore from the city of Jazan"
+      },
+      {
+       "evidence_ref": "research:https://www.visitsaudi.com/en/jazan/attraction/farasan-islands-protected-area",
+       "title": "Farasan Islands Reserved Area - Visit Saudi Official Website",
+       "publisher": "Visit Saudi / Saudi Tourism Authority",
+       "url": "https://www.visitsaudi.com/en/jazan/attraction/farasan-islands-protected-area",
+       "excerpt": "In Farasan Islands Reserved Area, turquoise waters meet coral reefs and mangroves. Farasan of Nature and Man shines through wildlife and"
+      }
+     ],
+     "not_assessed": {
+      "promotional_coverage": "not_researched",
+      "underrepresentation": "not_assessed",
+      "demand": "not_assessed"
+     },
+     "sensitive_note": null
+    },
+    "claims": [
+     {
+      "claim": "The Farasan Islands are an archipelago of over 170 islands and islets that are known for their coastal marine themes, showcased through user-generated content on Flickr.",
+      "evidence_refs": [
+       "photo:14648926871",
+       "photo:15399758757",
+       "photo:15844527591"
+      ]
+     },
+     {
+      "claim": "Photographs depict various aspects of the Farasan Islands, including diving spots, fishing activities, and heritage structures, indicating a rich opportunity to promote marine tourism and cultural experiences.",
+      "evidence_refs": [
+       "photo:3323584085",
+       "photo:2132542371",
+       "photo:49586208876"
+      ]
+     }
+    ],
+    "uncertainties": [
+     "Verification of available tourism services related to diving and fishing activities.",
+     "Confirmation of accessibility and visitor experience at the sites highlighted in the evidence."
+    ],
+    "recommendation": "Draft a campaign targeting the natural beauty and cultural heritage of the Farasan Islands.",
+    "marketing_angle": "Red Sea island escape: diving, fishing boats and coral-stone heritage houses.",
+    "repairs": []
+   },
+   "edit": null,
+   "review": null
+  }
+ ]
+}
