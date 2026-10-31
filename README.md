@@ -145,7 +145,7 @@ To generate live, run `cp .env.example .env`, add `OPENAI_API_KEY`, and restart 
 **What this shows:**
 
 - **The model tends to over-claim, and the checks catch it.** Every saved draft started with at least one finding, even though the prompt forbids much of what was found.
-- **The checks work on real output.** The original Al Qassim draft claimed "growing interest", which the Flickr records can't show; `atia demo validate` reproduces that rejection. A later revision fixed it, with the edit recorded as an AI-assisted editorial correction, and a person then approved it.
+- **The checks work on real output.** The original Al Qassim draft claimed "growing interest", which the Flickr records can't show. It passed the validator of that time and was saved. The rules were then tightened, and the current validator rejects it, as `atia demo validate` shows. An AI-assisted editorial correction was recorded as a new revision, and a person then approved it.
 - **Six model requests produced these results,** at an estimated $0.0061 in total from token usage. One earlier Al Qassim attempt was rejected for missing required content. An earlier, stricter validator refused the other four drafts outright; the current version keeps them for review, and Riyadh remains blocked.
 
 ### Testing

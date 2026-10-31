@@ -1766,6 +1766,11 @@ summary::-webkit-details-marker {
   }
 }
 
+.campaign-image .validation-badge {
+  position: absolute;
+  bottom: 9px;
+  inset-inline-start: 9px;
+}
 .validation-badge {
   display: inline-block;
   padding: 3px 9px;
