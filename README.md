@@ -140,7 +140,7 @@ To generate live, run `cp .env.example .env`, add `OPENAI_API_KEY`, and restart 
 | Farasan Islands | Strong | 10 / 8 | Draft, 2 warnings | "premier"; proposed 5% target |
 | Discover Rijal Almaa | Strong | 6 / 6 | Draft, 2 warnings | Proposed 5% target; duplicate post ID renumbered |
 | Discover the Ancient Rock Art of Najran | Exploratory | 1 / 1 | Draft, 1 warning | Proposed 30% target |
-| Valleys and Waterscapes in Riyadh | Strong | 5 / 5 | **Needs correction** | Blocked: claims "popular among families" without a supporting record, and links engagement to interest. Also a warning on a proposed target of 500 |
+| Valleys and Waterscapes in Riyadh | Strong | 5 / 5 | **Needs correction** | Blocked: claims "popular among families" without a supporting record. Also a warning on a proposed target of 500 |
 
 **What this shows:**
 
@@ -152,7 +152,7 @@ To generate live, run `cp .env.example .env`, add `OPENAI_API_KEY`, and restart 
 
 Verified on a clean clone of this repository, with no API keys and only `requirements.txt` installed:
 
-- **Backend:** 376 tests passed, 3 skipped because they need optional modules.
+- **Backend:** 383 tests passed, 3 skipped because they need optional modules.
 - **Frontend:** 27 tests passed, and the production build succeeds.
 
 Tests use temporary databases and mocked AI responses, so they verify ATIA's logic, not the quality of live model output. Sample size matters too: five campaigns demonstrate the workflow, but are not a statistical evaluation of the model or of marketing outcomes.

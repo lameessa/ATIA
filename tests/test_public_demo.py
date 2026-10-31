@@ -63,6 +63,15 @@ def test_all_five_saved_campaigns_keep_their_state(demo):
         assert all(c['media'] for c in found.values())
 
 
+def test_riyadh_is_blocked_only_by_its_unsupported_popularity_claim(demo):
+    with TestClient(create_app(demo)) as client:
+        riyadh = next(c for c in client.get('/api/workspace').json()['campaigns'] if c['opportunity_id'] == 'riyadh-waterscapes')
+        assert riyadh['validation']['state'] == 'NEEDS_CORRECTION'
+        assert riyadh['validation']['blocking'] == ['Claim says "popular", which the supplied records do not show']
+        approve = {'decision': 'APPROVED', 'revision': 0, 'reviewer': 'Person', 'launch_date': '2026-11-10', 'confirmed': True}
+        assert client.post(f"/api/campaigns/{riyadh['id']}/review", headers=HEADERS, json=approve).status_code == 409
+
+
 def test_review_and_calendar_work_with_no_keys(demo):
     with TestClient(create_app(demo)) as client:
         found = {c['opportunity_id']: c for c in client.get('/api/workspace').json()['campaigns']}

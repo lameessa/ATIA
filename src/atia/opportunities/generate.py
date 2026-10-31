@@ -65,7 +65,8 @@ UNSAFE = ('escort', 'porn', 'pornographic', 'nude', 'sexual', 'temporary marriag
 # Offers are allowed only when a supplied record mentions them.
 ACTIVITY_TERMS = {'tour': ('tour', 'tours', 'جولة', 'جولات'), 'visit offer': ('farm visit', 'farm visits', 'زيارات المزارع', 'زيارة المزارع'), 'workshop': ('workshop', 'workshops', 'ورشة', 'ورش'),
                   'tasting': ('tasting', 'tastings', 'تذوق'), 'ticket': ('ticket', 'tickets', 'تذاكر'), 'harvest activity': ('harvest activity', 'harvest activities', 'انشطة الحصاد'), 'booking': ('booking', 'bookings', 'حجز')}
-ENGAGEMENT_WORDS = re.compile(r'\b(engagement|views?|favou?rites|comments|likes)\b|تفاعل|مشاهدات')
+# "Scenic views" describes scenery, not a Flickr metric.
+ENGAGEMENT_WORDS = re.compile(r'\b(engagement|(?<!scenic )views?|favou?rites|comments|likes)\b|تفاعل|مشاهدات')
 INTEREST_WORDS = re.compile(r'\b(interest|demand|popular\w*|appeal|attract\w*|resonat\w*)\b|اهتمام|طلب|اقبال')
 ARABIC_DIGITS = str.maketrans('٠١٢٣٤٥٦٧٨٩', '0123456789')
 

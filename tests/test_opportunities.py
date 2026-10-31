@@ -612,3 +612,26 @@ def test_recover_rejected_saves_stored_output_without_a_model_call(ready):
         campaign = OpportunityStore(db).campaigns()[0]
         found = review_validation(campaign['campaign'], campaign['evidence'])
         assert found['blocking'] == [] and any('renumbered' in w for w in found['warnings'])
+
+
+def test_scenic_views_are_scenery_not_an_engagement_metric(ready):
+    with open_store(ready) as store:
+        dossier = build_dossier(store.connection, OpportunityStore(store.connection).opportunity('qassim'))
+    value = decision()
+    value['claims'][0]['claim'] = 'Photos depict scenic views at sunset, making it an attractive spot for relaxation.'
+    assert assess_decision(value, dossier)['blocking'] == []
+
+
+@pytest.mark.parametrize('claim', [
+    'High views show strong appeal',
+    'High view counts show strong appeal',
+    'Scenic views earned many views, which shows appeal',
+    'Comments indicate interest in the valley',
+    'Engagement metrics indicate interest in date farming',
+])
+def test_flickr_engagement_used_as_interest_still_blocks(ready, claim):
+    with open_store(ready) as store:
+        dossier = build_dossier(store.connection, OpportunityStore(store.connection).opportunity('qassim'))
+    value = decision()
+    value['claims'][0]['claim'] = claim
+    assert 'Claim treats engagement as evidence of interest or demand' in assess_decision(value, dossier)['blocking']
