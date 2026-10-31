@@ -32,7 +32,7 @@ ATIA connects public evidence to a controlled marketing workflow:
 ## How ATIA Works
 
 ```mermaid
-flowchart LR
+flowchart TB
     A[Discover] --> B[Generate draft]
     B --> C[Studio]
     C --> D[Human review]
