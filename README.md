@@ -1,4 +1,4 @@
-# ATIA — Autonomous Tourism Intelligence Agent
+# ATIA: Autonomous Tourism Intelligence Agent
 
 **ATIA helps Saudi tourism marketers spot promising campaign opportunities in public social media evidence and turn them into bilingual campaigns they can review, correct and plan, with every claim traceable to its source and a person approving the result.**
 
