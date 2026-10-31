@@ -1,8 +1,8 @@
 # ATIA — Autonomous Tourism Intelligence Agent
 
-**ATIA turns photographs people already share of Saudi Arabia into evidence-backed campaign ideas, bilingual drafts and an internal launch plan, with a person approving every step that matters.**
+**ATIA helps Saudi tourism marketers spot promising campaign opportunities in public social media evidence and turn them into bilingual campaigns they can review, correct and plan, with every claim traceable to its source and a person approving the result.**
 
-As Saudi Arabia develops its tourism sector under Vision 2030, its appeal extends well beyond the best-known names: stone-tower villages in Asir, coral-stone houses on the Farasan Islands, date-palm country in Al Qassim, ancient rock art near Najran. ATIA helps a tourism marketing team find angles like these in public photography, see exactly what supports each one, and take an idea through to a reviewed campaign plan in one workflow.
+As Saudi Arabia develops its tourism sector under Vision 2030, its appeal extends well beyond the best-known names: stone-tower villages in Asir, coral-stone houses on the Farasan Islands, date-palm country in Al Qassim, ancient rock art near Najran. ATIA surfaces angles like these from what people already photograph and share, shows the evidence behind each one, and takes it from insight to a reviewed English and Arabic campaign plan in one workflow.
 
 ![Stone-tower houses in Rijal Almaa, Asir](demo/images/50923146606.jpg)
 
@@ -81,7 +81,7 @@ flowchart TB
 
 **How far the AI analysis reached.** The research database holds 197 archive photographs and 86 collected ones. Stored OpenCLIP relevance results exist for 11 archive and 4 collected photographs, and just 1 of the demo's 25 evidence records carries one. ATIA's signals come mainly from metadata, not from AI analysis of every image.
 
-**How far autonomy goes.** The optional agent can choose what to investigate within fixed limits. The campaign workflow is human-controlled: a person starts generation, reviews the output and approves it. The five demo opportunities are a hand-picked shortlist drawn from 89 signals that the intelligence build found (`config/mvp-opportunities.json`).
+**How far autonomy goes.** The optional agent can investigate and propose within defined limits on requests, tool calls and cost. Campaign approval and scheduling decisions remain with people: a person starts generation, reviews the output, approves it and chooses the launch date. The five demo opportunities are a hand-picked shortlist drawn from 89 signals that the intelligence build found (`config/mvp-opportunities.json`).
 
 **Stack:** Python 3.10+, FastAPI, SQLite, React 19, TypeScript, Vite, Tailwind CSS, pytest and Vitest.
 
@@ -159,14 +159,18 @@ Tests use temporary databases and mocked AI responses, so they verify ATIA's log
 
 ## Limitations & Responsible AI
 
-- **Engagement is not demand.** Views, favourites and comments describe individual photographs. ATIA does not measure tourism demand or visitor behaviour, and has not proven demand for any destination.
-- **ATIA suggests; it doesn't rank what is underpromoted.** It offers evidence-backed marketing hypotheses. It does not objectively identify destinations as overlooked or underpromoted.
-- **Evidence strength is limited.** Evidence classes reflect how many photographers and records support a signal, on a small sample. Geotags and user descriptions can be wrong, and exact place identities are often unverified.
-- **The validator is rule-based.** It catches known patterns, not every misleading statement, and its unsafe-content check is a short word list, not full moderation. A person remains responsible for what is approved.
-- **Images need rights and review.** Evidence and display are separate permissions: All Rights Reserved photographs can count as evidence but are never shown. A photograph displays only if Flickr reports it safe and reusable and its exact bytes have a recorded review. The 15 demo photographs were visually checked by AI assistants, not people, and are labelled that way in the app. New photographs stay hidden until a person approves them. A licence check is not legal clearance and doesn't cover people or property rights.
-- **Humans stay in control.** Nothing reaches the Calendar without human approval, and ATIA has no automatic publishing. The Calendar is an internal plan, and it doesn't post to any platform.
-- **Arabic needs review.** The AI-written Arabic hasn't been reviewed by a native-speaking marketing professional.
-- **This is an MVP.** It runs locally, with no user authentication, and needs both before any hosted use.
+| Area | What to know |
+|---|---|
+| **Demand** | Engagement is not demand. ATIA does not measure visitor behaviour and has not proven tourism demand for any destination. |
+| **Underpromotion** | ATIA offers evidence-backed marketing hypotheses. It does not objectively identify destinations as overlooked or underpromoted. |
+| **Evidence** | Evidence classes reflect a small sample. Geotags and descriptions can be wrong, and exact place identities are often unverified. |
+| **Validation** | The validator is rule-based and can miss misleading statements. Its unsafe-content check is a short word list, not full moderation. |
+| **Images** | All Rights Reserved photos can count as evidence but are never shown. AI assistants, not people, checked the 15 demo photos. New photos stay hidden until a person approves them. A licence check is not legal clearance and doesn't cover people or property rights. |
+| **Human oversight** | Nothing reaches the Calendar without human approval. There is no automatic publishing, and the Calendar doesn't post to any platform. |
+| **Arabic** | The AI-written Arabic hasn't been reviewed by a native-speaking marketing professional. |
+| **Readiness** | ATIA is a local MVP. It requires authentication, deployment hardening and production security controls before public hosting. |
+
+The full display rules for images are in the [technical documentation](docs/TECHNICAL_DOCUMENTATION.md#image-safety-and-rights).
 
 ## Technical Documentation
 
