@@ -33,10 +33,10 @@ ATIA connects public evidence to a controlled marketing workflow:
 
 ```mermaid
 flowchart LR
-    A[Discover<br>evidence-backed<br>opportunities] --> B[Generate<br>GPT-4o-mini draft<br>after cost confirmation]
-    B --> C[Studio<br>draft, warnings,<br>blocking issues]
-    C --> D[Human review<br>edit, approve,<br>reject or revise]
-    D -->|Approved| E[Internal Calendar<br>proposed dates,<br>not published]
+    A[Discover] --> B[Generate draft]
+    B --> C[Studio]
+    C --> D[Human review]
+    D -->|Approved| E[Internal Calendar]
     D -->|Corrected| C
 ```
 
