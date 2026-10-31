@@ -235,4 +235,4 @@ The full screening/classification pass took **4.44 seconds** (model weights alre
 
 All **297 photo records, 10 legacy analyses, 30 earlier dimension analyses, and 20 earlier attempts** match their before-run checksums exactly. New gated detail rows: nine (three dimensions for each of three eligible images). All policies and prompt hashes match the pre-review registration. SQLite integrity and foreign keys passed. **54 automated tests passed**. No sentiment analysis, agent, training, fine-tuning, or frontend was implemented, and nothing was pushed.
 
-Interactive local previews: [previews.html](data/relevance-review/previews.html). Full evaluation: [evaluation.json](data/relevance-review/evaluation.json).
+Interactive local previews: `data/relevance-review/previews.html` (private, not published). Full evaluation: `data/relevance-review/evaluation.json` (private, not published).

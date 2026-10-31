@@ -50,7 +50,7 @@ The model publisher also calls for fixed-taxonomy, task-specific evaluation: [LA
 
 ## Photo [photo]
 
-[Flickr photo]([Flickr link removed] · [Cached original](data/images/6df92643f209199da4e6aed6267c73009a08e0ff3fcc91d9b5a68eefa4bfe344.img)
+Flickr link and cached original removed from the public copy.
 
 **Visual inspection:** Outdoor portrait advertisement with large text overlays; a person, leafless trees, blue sky, and part of a building are visible. This is not a destination landscape. Daylight is plausible; exact time is unknown.
 
@@ -67,7 +67,7 @@ Environment: max 0.1291 < 0.25; margin 0.0347 >= 0.03. Lighting: max 0.1991 < 0.
 
 ## Photo [photo]
 
-[Flickr photo]([Flickr link removed] · [Cached original](data/images/c81e3ce9eb7b27a3498fb7d05387fb0742837ffa450c4b75da60041e63f16f24.img)
+Flickr link and cached original removed from the public copy.
 
 **Visual inspection:** Indoor portrait advertisement with large text overlays; a person, patterned walls, and a television are visible. Outdoor lighting and weather prompts are inapplicable to the visible scene.
 
@@ -84,7 +84,7 @@ Environment: max 0.0945 < 0.25; margin 0.0158 < 0.03. Lighting: max 0.1466 < 0.2
 
 ## Photo [photo]
 
-[Flickr photo]([Flickr link removed] · [Cached original](data/images/3b019f350fe93d24bebcbf76e25a2b8f3ccedb95887bab3c281315149b975551.img)
+Flickr link and cached original removed from the public copy.
 
 **Visual inspection:** Advertisement showing two people outdoors against rocky ground, with large text overlays. People and rock formations are visible; the image is portrait-focused rather than a mountain panorama. The pale sky does not establish fog or overcast weather.
 
@@ -101,7 +101,7 @@ Environment: max 0.1111 < 0.25; margin 0.0237 < 0.03. Lighting: max 0.1800 < 0.2
 
 ## Photo [photo]
 
-[Flickr photo]([Flickr link removed] · [Cached original](data/images/7e538f75eef3968a62bc9c8ef879d840f4c8e8d1cca575b5958de72f576e7179.img)
+Flickr link and cached original removed from the public copy.
 
 **Visual inspection:** Roadside portrait advertisement with large text overlays. A person, road, buildings, and a street light are visible. This has urban background cues, but is not a destination landscape; exact lighting phase is unclear.
 
@@ -118,7 +118,7 @@ Environment: max 0.1047 < 0.25; margin 0.0021 < 0.03. Lighting: max 0.1712 < 0.2
 
 ## Photo [photo]
 
-[Flickr photo]([Flickr link removed] · [Cached original](data/images/398bb0b0acfe2bd8e3dc60f43d9726b9bd30918af6280a58c9d31d421523f5f8.img)
+Flickr link and cached original removed from the public copy.
 
 **Visual inspection:** Seated portrait advertisement with text overlays, a wall, and furniture. A person is clearly visible; the tightly framed scene provides no reliable landscape or outdoor weather evidence.
 
@@ -135,7 +135,7 @@ Environment: max 0.1096 < 0.25; margin 0.0182 < 0.03. Lighting: max 0.1665 < 0.2
 
 ## Photo [photo]
 
-[Flickr photo]([Flickr link removed] · [Cached original](data/images/d69c7cd4d6f5e38162fba68fa236a572306dad998af69702c029e20db1185b35.img)
+Flickr link and cached original removed from the public copy.
 
 **Visual inspection:** Close-up portrait advertisement with large text overlays and a blurred background. A person is visible; setting, weather, and landscape type are not reliably established.
 
@@ -152,7 +152,7 @@ Environment: max 0.1173 < 0.25; margin 0.0139 < 0.03. Lighting: max 0.1836 < 0.2
 
 ## Photo [photo]
 
-[Flickr photo]([Flickr link removed] · [Cached original](data/images/cf05285599eea89994f2c95a949b4c15b0b8d7eb6d158bf7100d075815fad8c7.img)
+Flickr link and cached original removed from the public copy.
 
 **Visual inspection:** Portrait advertisement at an outdoor seating area, with text overlays, a person, a tree/greenery, and a drink. Natural ambient light is visible; exact time and weather remain unclear.
 
@@ -169,7 +169,7 @@ Environment: max 0.1249 < 0.25; margin 0.0355 >= 0.03. Lighting: max 0.1589 < 0.
 
 ## Photo [photo]
 
-[Flickr photo]([Flickr link removed] · [Cached original](data/images/ce6b6b22110c8c3ff8b3cfb1f775f0706f0533df92e93768ba357ad9ee66a4f4.img)
+Flickr link and cached original removed from the public copy.
 
 **Visual inspection:** Close-up portrait advertisement inside a vehicle, with large text overlays. A person and car interior are visible; buildings/trees appear through the window. Exterior daylight does not establish capture-clock time or a destination landscape.
 
@@ -186,7 +186,7 @@ Environment: max 0.1028 < 0.25; margin 0.0201 < 0.03. Lighting: max 0.1704 < 0.2
 
 ## Photo [photo]
 
-[Flickr photo]([Flickr link removed] · [Cached original](data/images/1dd26dd44693cc107b59c79eb23e949051b529bc8669cd4bef1ba1393ad8403c.img)
+Flickr link and cached original removed from the public copy.
 
 **Visual inspection:** White decorative arched building facade/courtyard under a canopy, with people, motorcycles, and potted plants. Traditional architecture is a plausible visual match. Historical age, cultural significance, precise location, and cloudy weather cannot be verified from appearance alone.
 
@@ -203,7 +203,7 @@ Environment: max 0.2115 < 0.25; margin 0.0310 >= 0.03. Lighting: max 0.2271 < 0.
 
 ## Photo [photo]
 
-[Flickr photo]([Flickr link removed] · [Cached original](data/images/fad7db9ff21d7e20a109d7f309a208e14a664714338ab732b28f417cfadc13db.img)
+Flickr link and cached original removed from the public copy.
 
 **Visual inspection:** Aircraft formation against a blue sky with white smoke trails. This is an aviation scene, not a cultural landscape. The trails are not evidence of cloudy or foggy weather; the image appears daylight-lit, without proving a clock time.
 

@@ -265,4 +265,4 @@ Global relevance coverage remains: {'not_evaluated': 272, 'uncertain': 18, 'rele
 
 9 candidate groups contain reviewed or screened irrelevant material and need special review. This is a content/geotag reliability concern, not proof that every other image nearby is irrelevant. The largest 19-photo group spans 0.777 km but could encompass multiple attractions; the seven-photo Hittin-reported context spans 0.919 km. Neither is asserted to be a specific named attraction. No independently verified names were available, so all 90 groups retain neutral names.
 
-Full local evidence: [latest.json](data/destinations/latest.json). Verification: [verification.json](data/destinations/verification.json). A pre-build database backup is stored locally at `data/atia-before-destinations.sqlite3`. Nothing was pushed.
+Full local evidence: `data/destinations/latest.json` (private, not published). Verification: `data/destinations/verification.json` (private, not published). A pre-build database backup is stored locally at `data/atia-before-destinations.sqlite3`. Nothing was pushed.

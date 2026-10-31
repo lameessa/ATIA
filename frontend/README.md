@@ -111,7 +111,7 @@ npm --prefix frontend test
 npm --prefix frontend run build
 ```
 
-See [STUDIO_VALIDATION.md](../STUDIO_VALIDATION.md) for actual data, tests, preserved
+See [STUDIO_VALIDATION.md](../docs/reports/STUDIO_VALIDATION.md) for actual data, tests, preserved
 records, paid-usage checks and limitations. No campaign has been fabricated to
 populate the empty workspace.
 

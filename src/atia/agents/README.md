@@ -16,4 +16,4 @@ publishing tool, or frontend.
 
 The CLI loads environment variables with the existing `Settings.load()`.
 Credentials are excluded from prompts, tool results and persisted configuration.
-See the main README for commands and budget/validation details.
+See `docs/TECHNICAL_DOCUMENTATION.md` for commands and budget/validation details.
