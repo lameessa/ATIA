@@ -25,7 +25,7 @@ Teams need a way to work from real records without treating them as more than th
 ATIA connects public evidence to a controlled marketing workflow:
 
 1. **It organises the evidence.** It extracts named places, regional experiences and tourism themes from Flickr records, keeping each signal's source and strength visible.
-2. **It drafts bilingual campaigns.** GPT-4o-mini writes an English and Arabic campaign using only the supplied evidence.
+2. **It drafts bilingual campaigns.** GPT-4o-mini generates bilingual campaign drafts grounded in supplied evidence, which are then checked for unsupported claims.
 3. **It checks the draft.** Deterministic rules separate problems a reviewer can judge from claims that must be corrected first.
 4. **It keeps people in charge.** Nothing reaches the Calendar without human approval, and nothing is ever published.
 
